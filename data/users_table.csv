@@ -1,0 +1,3104 @@
+user_id,user_type,user_age_group,geographic_region,is_quebec_resident
+USER_0002,Premium,18-24,Toronto,FALSE
+USER_0003,Premium,35-44,New York City,FALSE
+USER_0008,Free,35-44,Montreal,TRUE
+USER_0043,Premium,45+,Toronto,FALSE
+USER_0063,Premium,35-44,New York City,FALSE
+USER_0066,Premium,25-34,Vancouver,FALSE
+USER_0067,Free,25-34,Toronto,FALSE
+USER_0068,Free,45+,Los Angeles,FALSE
+USER_0075,Free,45+,Los Angeles,FALSE
+USER_0079,Premium,45+,Montreal,TRUE
+USER_0100,Free,35-44,Vancouver,FALSE
+USER_0113,Premium,35-44,Los Angeles,FALSE
+USER_0123,Free,18-24,Los Angeles,FALSE
+USER_0128,Free,45+,Los Angeles,FALSE
+USER_0131,Free,45+,New York City,FALSE
+USER_0134,Premium,25-34,Montreal,TRUE
+USER_0139,Premium,35-44,New York City,FALSE
+USER_0140,Premium,35-44,New York City,FALSE
+USER_0150,Premium,45+,London,FALSE
+USER_0187,Free,45+,New York City,FALSE
+USER_0196,Premium,45+,Montreal,TRUE
+USER_0200,Premium,25-34,Toronto,FALSE
+USER_0206,Premium,45+,London,FALSE
+USER_0212,Free,25-34,Los Angeles,FALSE
+USER_0217,Premium,35-44,New York City,FALSE
+USER_0224,Free,25-34,Vancouver,FALSE
+USER_0229,Free,35-44,Vancouver,FALSE
+USER_0235,Premium,45+,London,FALSE
+USER_0240,Free,25-34,Toronto,FALSE
+USER_0248,Premium,25-34,London,FALSE
+USER_0252,Premium,45+,London,FALSE
+USER_0267,Free,35-44,New York City,FALSE
+USER_0271,Free,45+,Los Angeles,FALSE
+USER_0274,Free,18-24,Vancouver,FALSE
+USER_0288,Premium,45+,London,FALSE
+USER_0311,Premium,45+,Toronto,FALSE
+USER_0367,Premium,45+,Vancouver,FALSE
+USER_0375,Premium,45+,Los Angeles,FALSE
+USER_0379,Premium,25-34,London,FALSE
+USER_0386,Free,45+,New York City,FALSE
+USER_0422,Premium,35-44,Los Angeles,FALSE
+USER_0426,Free,25-34,Los Angeles,FALSE
+USER_0429,Premium,45+,New York City,FALSE
+USER_0435,Free,45+,New York City,FALSE
+USER_0437,Free,18-24,Montreal,TRUE
+USER_0447,Premium,45+,Los Angeles,FALSE
+USER_0455,Free,35-44,Montreal,TRUE
+USER_0464,Premium,25-34,Montreal,TRUE
+USER_0490,Premium,45+,Vancouver,FALSE
+USER_0502,Premium,35-44,London,FALSE
+USER_0548,Free,18-24,Montreal,TRUE
+USER_0557,Premium,25-34,Toronto,FALSE
+USER_0569,Premium,35-44,Toronto,FALSE
+USER_0577,Free,35-44,Vancouver,FALSE
+USER_0579,Free,35-44,Toronto,FALSE
+USER_0582,Free,35-44,London,FALSE
+USER_0588,Premium,45+,New York City,FALSE
+USER_0612,Free,35-44,New York City,FALSE
+USER_0626,Premium,45+,Montreal,TRUE
+USER_0632,Free,45+,New York City,FALSE
+USER_0638,Premium,35-44,Toronto,FALSE
+USER_0654,Free,45+,Montreal,TRUE
+USER_0677,Premium,45+,London,FALSE
+USER_0682,Free,45+,Toronto,FALSE
+USER_0696,Premium,35-44,Los Angeles,FALSE
+USER_0701,Premium,45+,New York City,FALSE
+USER_0714,Premium,18-24,Los Angeles,FALSE
+USER_0723,Free,45+,Vancouver,FALSE
+USER_0736,Premium,25-34,London,FALSE
+USER_0750,Free,35-44,Montreal,TRUE
+USER_0763,Free,45+,Los Angeles,FALSE
+USER_0786,Free,45+,London,FALSE
+USER_0791,Free,35-44,Montreal,TRUE
+USER_0802,Free,18-24,Montreal,TRUE
+USER_0816,Premium,35-44,New York City,FALSE
+USER_0817,Free,45+,Vancouver,FALSE
+USER_0823,Free,45+,London,FALSE
+USER_0855,Free,35-44,Toronto,FALSE
+USER_0858,Premium,25-34,Toronto,FALSE
+USER_0862,Free,45+,Montreal,TRUE
+USER_0863,Free,45+,New York City,FALSE
+USER_0866,Premium,25-34,New York City,FALSE
+USER_0873,Premium,35-44,Los Angeles,FALSE
+USER_0880,Premium,45+,London,FALSE
+USER_0883,Premium,18-24,London,FALSE
+USER_0885,Free,45+,Toronto,FALSE
+USER_0891,Free,25-34,Toronto,FALSE
+USER_0894,Free,45+,Toronto,FALSE
+USER_0900,Free,25-34,London,FALSE
+USER_0904,Premium,45+,Los Angeles,FALSE
+USER_0932,Premium,25-34,Vancouver,FALSE
+USER_0944,Free,45+,London,FALSE
+USER_0963,Free,45+,Los Angeles,FALSE
+USER_0964,Premium,45+,London,FALSE
+USER_0978,Premium,45+,Montreal,TRUE
+USER_0990,Free,35-44,Toronto,FALSE
+USER_0991,Premium,35-44,Vancouver,FALSE
+USER_1006,Free,45+,Montreal,TRUE
+USER_1037,Free,35-44,New York City,FALSE
+USER_1045,Premium,45+,Toronto,FALSE
+USER_1061,Free,45+,Vancouver,FALSE
+USER_1075,Free,45+,London,FALSE
+USER_1077,Premium,45+,London,FALSE
+USER_1086,Free,45+,Toronto,FALSE
+USER_1115,Premium,45+,Montreal,TRUE
+USER_1116,Premium,45+,Vancouver,FALSE
+USER_1135,Free,45+,Vancouver,FALSE
+USER_1173,Free,35-44,London,FALSE
+USER_1177,Premium,25-34,London,FALSE
+USER_1190,Premium,35-44,London,FALSE
+USER_1201,Free,45+,Montreal,TRUE
+USER_1204,Free,45+,London,FALSE
+USER_1209,Free,18-24,Toronto,FALSE
+USER_1211,Premium,18-24,Vancouver,FALSE
+USER_1226,Premium,35-44,New York City,FALSE
+USER_1241,Free,45+,New York City,FALSE
+USER_1246,Premium,25-34,London,FALSE
+USER_1248,Premium,25-34,New York City,FALSE
+USER_1249,Premium,45+,Toronto,FALSE
+USER_1253,Free,18-24,Los Angeles,FALSE
+USER_1260,Free,35-44,London,FALSE
+USER_1275,Premium,25-34,Los Angeles,FALSE
+USER_1284,Free,45+,Toronto,FALSE
+USER_1289,Premium,45+,Los Angeles,FALSE
+USER_1304,Free,45+,Montreal,TRUE
+USER_1310,Premium,45+,New York City,FALSE
+USER_1317,Premium,45+,London,FALSE
+USER_1339,Free,45+,Toronto,FALSE
+USER_1340,Free,45+,Los Angeles,FALSE
+USER_1352,Premium,45+,Vancouver,FALSE
+USER_1353,Free,45+,Los Angeles,FALSE
+USER_1367,Premium,45+,London,FALSE
+USER_1376,Free,25-34,Toronto,FALSE
+USER_1378,Premium,25-34,Los Angeles,FALSE
+USER_1387,Free,35-44,Vancouver,FALSE
+USER_1407,Premium,45+,London,FALSE
+USER_1415,Free,45+,Los Angeles,FALSE
+USER_1418,Premium,25-34,Montreal,TRUE
+USER_1427,Free,25-34,Los Angeles,FALSE
+USER_1432,Premium,35-44,New York City,FALSE
+USER_1441,Free,45+,London,FALSE
+USER_1442,Free,45+,London,FALSE
+USER_1445,Premium,45+,New York City,FALSE
+USER_1453,Free,35-44,Toronto,FALSE
+USER_1464,Premium,35-44,Toronto,FALSE
+USER_1465,Free,35-44,London,FALSE
+USER_1471,Premium,45+,New York City,FALSE
+USER_1481,Premium,45+,Los Angeles,FALSE
+USER_1482,Free,35-44,Montreal,TRUE
+USER_1485,Premium,35-44,Vancouver,FALSE
+USER_1494,Premium,45+,Vancouver,FALSE
+USER_1500,Premium,45+,Vancouver,FALSE
+USER_1526,Premium,35-44,Toronto,FALSE
+USER_1553,Premium,25-34,New York City,FALSE
+USER_1558,Premium,45+,Los Angeles,FALSE
+USER_1568,Premium,45+,New York City,FALSE
+USER_1569,Free,45+,Vancouver,FALSE
+USER_1580,Premium,25-34,Los Angeles,FALSE
+USER_1591,Free,45+,Toronto,FALSE
+USER_1604,Premium,25-34,London,FALSE
+USER_1626,Free,45+,Los Angeles,FALSE
+USER_1630,Free,45+,Toronto,FALSE
+USER_1645,Premium,18-24,Montreal,TRUE
+USER_1648,Premium,45+,New York City,FALSE
+USER_1673,Premium,25-34,Toronto,FALSE
+USER_1679,Premium,45+,New York City,FALSE
+USER_1683,Free,45+,Toronto,FALSE
+USER_1686,Premium,18-24,Los Angeles,FALSE
+USER_1705,Free,45+,London,FALSE
+USER_1710,Premium,18-24,Montreal,TRUE
+USER_1753,Free,35-44,Toronto,FALSE
+USER_1772,Premium,45+,Toronto,FALSE
+USER_1784,Premium,25-34,Vancouver,FALSE
+USER_1786,Free,35-44,Vancouver,FALSE
+USER_1789,Premium,35-44,New York City,FALSE
+USER_1796,Premium,35-44,Los Angeles,FALSE
+USER_1798,Premium,35-44,Toronto,FALSE
+USER_1800,Premium,45+,London,FALSE
+USER_1816,Premium,35-44,Toronto,FALSE
+USER_1818,Free,45+,London,FALSE
+USER_1831,Free,45+,New York City,FALSE
+USER_1846,Free,18-24,New York City,FALSE
+USER_1868,Premium,45+,Los Angeles,FALSE
+USER_1874,Free,45+,Los Angeles,FALSE
+USER_1883,Free,18-24,London,FALSE
+USER_1896,Free,45+,Montreal,TRUE
+USER_1900,Premium,45+,Los Angeles,FALSE
+USER_1902,Free,35-44,Vancouver,FALSE
+USER_1906,Free,45+,Los Angeles,FALSE
+USER_1914,Premium,35-44,Los Angeles,FALSE
+USER_1924,Premium,45+,Los Angeles,FALSE
+USER_1925,Free,35-44,Los Angeles,FALSE
+USER_1927,Premium,45+,Los Angeles,FALSE
+USER_1928,Premium,25-34,New York City,FALSE
+USER_1931,Premium,45+,Vancouver,FALSE
+USER_1934,Premium,25-34,Vancouver,FALSE
+USER_1947,Free,45+,Montreal,TRUE
+USER_1967,Premium,25-34,Montreal,TRUE
+USER_1973,Free,45+,New York City,FALSE
+USER_1982,Free,35-44,Los Angeles,FALSE
+USER_1987,Premium,45+,Los Angeles,FALSE
+USER_1989,Premium,35-44,London,FALSE
+USER_1999,Free,45+,Montreal,TRUE
+USER_2006,Premium,45+,Montreal,TRUE
+USER_2008,Free,45+,Toronto,FALSE
+USER_2014,Free,35-44,Toronto,FALSE
+USER_2034,Premium,18-24,Montreal,TRUE
+USER_2041,Premium,45+,New York City,FALSE
+USER_2063,Premium,18-24,New York City,FALSE
+USER_2069,Premium,45+,Vancouver,FALSE
+USER_2078,Free,45+,New York City,FALSE
+USER_2102,Free,35-44,London,FALSE
+USER_2111,Premium,45+,Montreal,TRUE
+USER_2127,Premium,45+,Montreal,TRUE
+USER_2140,Premium,45+,Los Angeles,FALSE
+USER_2211,Free,45+,New York City,FALSE
+USER_2218,Premium,45+,Los Angeles,FALSE
+USER_2222,Free,25-34,Vancouver,FALSE
+USER_2251,Premium,18-24,Los Angeles,FALSE
+USER_2260,Free,45+,Los Angeles,FALSE
+USER_2272,Premium,45+,New York City,FALSE
+USER_2275,Premium,45+,Toronto,FALSE
+USER_2279,Free,35-44,Toronto,FALSE
+USER_2282,Free,35-44,Toronto,FALSE
+USER_2292,Premium,35-44,Toronto,FALSE
+USER_2294,Free,35-44,Toronto,FALSE
+USER_2297,Premium,35-44,Toronto,FALSE
+USER_2304,Free,25-34,New York City,FALSE
+USER_2312,Free,45+,New York City,FALSE
+USER_2326,Premium,35-44,Toronto,FALSE
+USER_2336,Premium,25-34,Montreal,TRUE
+USER_2348,Free,35-44,London,FALSE
+USER_2354,Premium,45+,Los Angeles,FALSE
+USER_2372,Free,45+,Montreal,TRUE
+USER_2378,Free,35-44,Los Angeles,FALSE
+USER_2383,Free,35-44,Montreal,TRUE
+USER_2384,Free,35-44,Montreal,TRUE
+USER_2397,Free,25-34,Montreal,TRUE
+USER_2406,Free,35-44,Vancouver,FALSE
+USER_2412,Free,25-34,Montreal,TRUE
+USER_2423,Free,45+,London,FALSE
+USER_2424,Premium,45+,London,FALSE
+USER_2438,Free,45+,Montreal,TRUE
+USER_2445,Free,45+,New York City,FALSE
+USER_2446,Premium,45+,Montreal,TRUE
+USER_2448,Premium,45+,Toronto,FALSE
+USER_2461,Free,35-44,New York City,FALSE
+USER_2465,Free,18-24,Montreal,TRUE
+USER_2470,Free,45+,Toronto,FALSE
+USER_2482,Free,35-44,Vancouver,FALSE
+USER_2495,Free,35-44,Los Angeles,FALSE
+USER_2508,Premium,35-44,Montreal,TRUE
+USER_2534,Free,25-34,Montreal,TRUE
+USER_2535,Premium,45+,Vancouver,FALSE
+USER_2537,Premium,25-34,Montreal,TRUE
+USER_2541,Free,25-34,Los Angeles,FALSE
+USER_2562,Free,45+,London,FALSE
+USER_2567,Premium,25-34,Vancouver,FALSE
+USER_2568,Free,25-34,Los Angeles,FALSE
+USER_2580,Free,35-44,London,FALSE
+USER_2593,Premium,45+,London,FALSE
+USER_2598,Premium,35-44,Vancouver,FALSE
+USER_2599,Premium,45+,Vancouver,FALSE
+USER_2604,Premium,45+,Los Angeles,FALSE
+USER_2608,Premium,45+,Los Angeles,FALSE
+USER_2626,Free,45+,New York City,FALSE
+USER_2644,Premium,45+,Vancouver,FALSE
+USER_2676,Free,45+,Vancouver,FALSE
+USER_2679,Free,45+,Los Angeles,FALSE
+USER_2680,Premium,35-44,Toronto,FALSE
+USER_2686,Free,45+,Los Angeles,FALSE
+USER_2691,Free,18-24,London,FALSE
+USER_2704,Premium,25-34,Toronto,FALSE
+USER_2712,Free,25-34,London,FALSE
+USER_2723,Free,25-34,Toronto,FALSE
+USER_2735,Premium,45+,London,FALSE
+USER_2766,Free,25-34,Vancouver,FALSE
+USER_2780,Free,45+,New York City,FALSE
+USER_2806,Free,35-44,Toronto,FALSE
+USER_2812,Premium,25-34,Los Angeles,FALSE
+USER_2813,Premium,45+,London,FALSE
+USER_2819,Free,45+,London,FALSE
+USER_2861,Free,45+,Vancouver,FALSE
+USER_2871,Premium,45+,New York City,FALSE
+USER_2884,Premium,25-34,Montreal,TRUE
+USER_2891,Premium,25-34,Montreal,TRUE
+USER_2895,Premium,45+,New York City,FALSE
+USER_2930,Premium,25-34,Vancouver,FALSE
+USER_2932,Free,18-24,Los Angeles,FALSE
+USER_2940,Premium,25-34,Montreal,TRUE
+USER_2949,Premium,35-44,New York City,FALSE
+USER_2951,Free,45+,Los Angeles,FALSE
+USER_2956,Premium,45+,Toronto,FALSE
+USER_2960,Free,45+,Toronto,FALSE
+USER_2970,Premium,45+,London,FALSE
+USER_2974,Free,25-34,Los Angeles,FALSE
+USER_2979,Premium,35-44,Vancouver,FALSE
+USER_2981,Free,35-44,New York City,FALSE
+USER_2985,Free,35-44,London,FALSE
+USER_2998,Free,45+,Montreal,TRUE
+USER_2999,Free,35-44,New York City,FALSE
+USER_3003,Premium,45+,Montreal,TRUE
+USER_3013,Premium,18-24,London,FALSE
+USER_3036,Premium,18-24,Vancouver,FALSE
+USER_3056,Premium,18-24,Los Angeles,FALSE
+USER_3065,Premium,45+,New York City,FALSE
+USER_3082,Free,45+,New York City,FALSE
+USER_3101,Premium,25-34,Toronto,FALSE
+USER_3106,Premium,45+,Vancouver,FALSE
+USER_3107,Free,45+,Vancouver,FALSE
+USER_3116,Free,25-34,Vancouver,FALSE
+USER_3121,Premium,45+,Montreal,TRUE
+USER_3124,Free,35-44,London,FALSE
+USER_3126,Premium,45+,Vancouver,FALSE
+USER_3133,Free,45+,Los Angeles,FALSE
+USER_3141,Free,35-44,London,FALSE
+USER_3144,Premium,45+,Toronto,FALSE
+USER_3155,Premium,45+,New York City,FALSE
+USER_3162,Premium,35-44,Montreal,TRUE
+USER_3163,Premium,35-44,Los Angeles,FALSE
+USER_3167,Premium,35-44,Toronto,FALSE
+USER_3174,Free,45+,Los Angeles,FALSE
+USER_3179,Free,45+,Vancouver,FALSE
+USER_3186,Free,35-44,New York City,FALSE
+USER_3211,Premium,18-24,Toronto,FALSE
+USER_3218,Free,35-44,Montreal,TRUE
+USER_3244,Free,35-44,London,FALSE
+USER_3245,Free,18-24,Los Angeles,FALSE
+USER_3250,Premium,45+,Montreal,TRUE
+USER_3252,Premium,45+,Toronto,FALSE
+USER_3263,Free,45+,London,FALSE
+USER_3268,Premium,45+,London,FALSE
+USER_3269,Premium,35-44,New York City,FALSE
+USER_3307,Free,45+,Los Angeles,FALSE
+USER_3322,Free,35-44,New York City,FALSE
+USER_3328,Free,45+,New York City,FALSE
+USER_3335,Free,45+,Toronto,FALSE
+USER_3340,Free,25-34,Montreal,TRUE
+USER_3371,Free,45+,Toronto,FALSE
+USER_3378,Premium,18-24,Toronto,FALSE
+USER_3388,Free,45+,New York City,FALSE
+USER_3401,Free,18-24,Toronto,FALSE
+USER_3413,Premium,35-44,New York City,FALSE
+USER_3444,Premium,25-34,Toronto,FALSE
+USER_3447,Free,35-44,Montreal,TRUE
+USER_3457,Premium,45+,London,FALSE
+USER_3460,Premium,45+,New York City,FALSE
+USER_3466,Free,45+,New York City,FALSE
+USER_3472,Premium,45+,London,FALSE
+USER_3488,Premium,45+,Los Angeles,FALSE
+USER_3502,Premium,45+,New York City,FALSE
+USER_3506,Premium,45+,London,FALSE
+USER_3510,Premium,45+,Montreal,TRUE
+USER_3514,Premium,35-44,New York City,FALSE
+USER_3522,Free,35-44,Montreal,TRUE
+USER_3530,Free,35-44,Los Angeles,FALSE
+USER_3538,Premium,35-44,Vancouver,FALSE
+USER_3545,Premium,45+,Montreal,TRUE
+USER_3551,Free,35-44,Montreal,TRUE
+USER_3562,Free,45+,Montreal,TRUE
+USER_3566,Free,35-44,Toronto,FALSE
+USER_3567,Free,18-24,New York City,FALSE
+USER_3571,Free,25-34,London,FALSE
+USER_3581,Premium,45+,Toronto,FALSE
+USER_3582,Premium,35-44,London,FALSE
+USER_3592,Free,45+,New York City,FALSE
+USER_3618,Premium,45+,New York City,FALSE
+USER_3635,Free,45+,Vancouver,FALSE
+USER_3640,Premium,45+,London,FALSE
+USER_3649,Premium,45+,Montreal,TRUE
+USER_3663,Free,35-44,New York City,FALSE
+USER_3697,Premium,45+,Toronto,FALSE
+USER_3703,Premium,25-34,Toronto,FALSE
+USER_3709,Free,18-24,Vancouver,FALSE
+USER_3725,Premium,45+,Montreal,TRUE
+USER_3726,Premium,25-34,Los Angeles,FALSE
+USER_3744,Free,35-44,New York City,FALSE
+USER_3751,Free,45+,Toronto,FALSE
+USER_3764,Premium,35-44,London,FALSE
+USER_3765,Premium,35-44,Toronto,FALSE
+USER_3779,Premium,25-34,Montreal,TRUE
+USER_3780,Premium,45+,London,FALSE
+USER_3787,Premium,45+,Toronto,FALSE
+USER_3792,Premium,25-34,Los Angeles,FALSE
+USER_3799,Premium,45+,Toronto,FALSE
+USER_3803,Premium,35-44,Los Angeles,FALSE
+USER_3809,Premium,35-44,Montreal,TRUE
+USER_3828,Premium,35-44,Toronto,FALSE
+USER_3855,Premium,35-44,London,FALSE
+USER_3879,Free,35-44,New York City,FALSE
+USER_3887,Premium,45+,London,FALSE
+USER_3888,Premium,45+,London,FALSE
+USER_3892,Free,35-44,Los Angeles,FALSE
+USER_3898,Premium,35-44,New York City,FALSE
+USER_3907,Premium,35-44,Toronto,FALSE
+USER_3916,Premium,45+,Los Angeles,FALSE
+USER_3927,Free,35-44,New York City,FALSE
+USER_3942,Free,35-44,Montreal,TRUE
+USER_3958,Free,35-44,London,FALSE
+USER_3961,Premium,45+,Toronto,FALSE
+USER_3962,Premium,25-34,Montreal,TRUE
+USER_3968,Free,45+,Vancouver,FALSE
+USER_3971,Premium,25-34,Los Angeles,FALSE
+USER_3976,Premium,35-44,Vancouver,FALSE
+USER_4003,Free,25-34,Vancouver,FALSE
+USER_4030,Free,25-34,London,FALSE
+USER_4044,Free,25-34,Vancouver,FALSE
+USER_4045,Premium,45+,Toronto,FALSE
+USER_4046,Free,25-34,Montreal,TRUE
+USER_4049,Premium,45+,Toronto,FALSE
+USER_4052,Premium,45+,London,FALSE
+USER_4057,Premium,45+,Los Angeles,FALSE
+USER_4063,Premium,18-24,Toronto,FALSE
+USER_4071,Premium,35-44,Los Angeles,FALSE
+USER_4082,Free,45+,Los Angeles,FALSE
+USER_4085,Premium,18-24,Montreal,TRUE
+USER_4086,Premium,35-44,London,FALSE
+USER_4157,Premium,45+,London,FALSE
+USER_4165,Free,45+,Toronto,FALSE
+USER_4174,Premium,45+,London,FALSE
+USER_4188,Free,18-24,Vancouver,FALSE
+USER_4189,Free,45+,London,FALSE
+USER_4201,Premium,18-24,Vancouver,FALSE
+USER_4230,Free,45+,New York City,FALSE
+USER_4260,Free,25-34,Vancouver,FALSE
+USER_4261,Premium,45+,New York City,FALSE
+USER_4292,Premium,45+,New York City,FALSE
+USER_4321,Premium,45+,London,FALSE
+USER_4355,Premium,45+,Los Angeles,FALSE
+USER_4363,Free,45+,Los Angeles,FALSE
+USER_4370,Free,35-44,Vancouver,FALSE
+USER_4383,Premium,35-44,New York City,FALSE
+USER_4387,Premium,45+,New York City,FALSE
+USER_4424,Premium,45+,Montreal,TRUE
+USER_4430,Premium,45+,London,FALSE
+USER_4431,Premium,35-44,Toronto,FALSE
+USER_4451,Free,35-44,New York City,FALSE
+USER_4461,Free,35-44,Montreal,TRUE
+USER_4507,Premium,45+,London,FALSE
+USER_4511,Free,35-44,Vancouver,FALSE
+USER_4512,Free,35-44,Montreal,TRUE
+USER_4514,Premium,45+,Toronto,FALSE
+USER_4517,Premium,45+,New York City,FALSE
+USER_4519,Premium,25-34,Montreal,TRUE
+USER_4522,Free,45+,New York City,FALSE
+USER_4526,Premium,18-24,Los Angeles,FALSE
+USER_4540,Free,35-44,Toronto,FALSE
+USER_4545,Premium,45+,Vancouver,FALSE
+USER_4555,Premium,45+,Toronto,FALSE
+USER_4564,Premium,45+,Toronto,FALSE
+USER_4574,Free,35-44,London,FALSE
+USER_4584,Premium,25-34,Los Angeles,FALSE
+USER_4589,Free,45+,New York City,FALSE
+USER_4590,Premium,45+,Vancouver,FALSE
+USER_4596,Premium,45+,Montreal,TRUE
+USER_4603,Free,35-44,Los Angeles,FALSE
+USER_4604,Premium,45+,Montreal,TRUE
+USER_4617,Free,45+,Toronto,FALSE
+USER_4618,Free,45+,Toronto,FALSE
+USER_4621,Free,45+,London,FALSE
+USER_4633,Premium,45+,Vancouver,FALSE
+USER_4648,Free,45+,Los Angeles,FALSE
+USER_4657,Premium,45+,New York City,FALSE
+USER_4661,Free,25-34,New York City,FALSE
+USER_4669,Free,25-34,Montreal,TRUE
+USER_4678,Premium,35-44,London,FALSE
+USER_4686,Premium,25-34,Toronto,FALSE
+USER_4690,Free,25-34,New York City,FALSE
+USER_4705,Free,45+,Toronto,FALSE
+USER_4715,Free,25-34,Montreal,TRUE
+USER_4721,Premium,35-44,Los Angeles,FALSE
+USER_4724,Premium,35-44,London,FALSE
+USER_4727,Free,45+,Los Angeles,FALSE
+USER_4737,Free,45+,Toronto,FALSE
+USER_4748,Premium,45+,London,FALSE
+USER_4763,Free,35-44,Vancouver,FALSE
+USER_4768,Free,45+,Toronto,FALSE
+USER_4770,Premium,45+,Los Angeles,FALSE
+USER_4775,Free,45+,Los Angeles,FALSE
+USER_4776,Free,45+,London,FALSE
+USER_4778,Premium,25-34,London,FALSE
+USER_4790,Premium,18-24,Montreal,TRUE
+USER_4794,Free,45+,Montreal,TRUE
+USER_4798,Premium,35-44,Vancouver,FALSE
+USER_4813,Premium,45+,Vancouver,FALSE
+USER_4831,Free,45+,Montreal,TRUE
+USER_4833,Premium,45+,London,FALSE
+USER_4855,Free,25-34,Vancouver,FALSE
+USER_4857,Free,35-44,Vancouver,FALSE
+USER_4859,Premium,35-44,Montreal,TRUE
+USER_4867,Premium,25-34,New York City,FALSE
+USER_4868,Premium,35-44,Los Angeles,FALSE
+USER_4869,Free,45+,Toronto,FALSE
+USER_4882,Premium,25-34,Los Angeles,FALSE
+USER_4889,Premium,18-24,London,FALSE
+USER_4905,Free,35-44,New York City,FALSE
+USER_4906,Premium,25-34,London,FALSE
+USER_4920,Premium,45+,Vancouver,FALSE
+USER_4922,Premium,45+,Vancouver,FALSE
+USER_4928,Premium,18-24,Toronto,FALSE
+USER_4942,Premium,45+,London,FALSE
+USER_4945,Premium,35-44,Toronto,FALSE
+USER_4951,Free,35-44,Los Angeles,FALSE
+USER_4952,Premium,45+,Montreal,TRUE
+USER_4967,Premium,45+,Los Angeles,FALSE
+USER_4976,Premium,45+,Los Angeles,FALSE
+USER_4984,Premium,35-44,London,FALSE
+USER_4992,Free,45+,Toronto,FALSE
+USER_4995,Premium,35-44,New York City,FALSE
+USER_4998,Premium,18-24,London,FALSE
+USER_5000,Premium,45+,Vancouver,FALSE
+USER_0016,Free,18-24,London,FALSE
+USER_0042,Free,18-24,Toronto,FALSE
+USER_0059,Free,25-34,London,FALSE
+USER_0061,Premium,18-24,Montreal,TRUE
+USER_0062,Premium,25-34,London,FALSE
+USER_0082,Premium,18-24,Los Angeles,FALSE
+USER_0085,Premium,18-24,Los Angeles,FALSE
+USER_0098,Premium,18-24,London,FALSE
+USER_0099,Free,18-24,Vancouver,FALSE
+USER_0102,Free,25-34,Los Angeles,FALSE
+USER_0105,Free,18-24,London,FALSE
+USER_0108,Free,25-34,Toronto,FALSE
+USER_0159,Free,18-24,London,FALSE
+USER_0160,Premium,25-34,Montreal,TRUE
+USER_0163,Premium,35-44,London,FALSE
+USER_0164,Free,18-24,New York City,FALSE
+USER_0171,Premium,25-34,Vancouver,FALSE
+USER_0179,Free,25-34,Montreal,TRUE
+USER_0182,Premium,18-24,Toronto,FALSE
+USER_0185,Free,18-24,Toronto,FALSE
+USER_0205,Premium,18-24,London,FALSE
+USER_0241,Premium,18-24,New York City,FALSE
+USER_0243,Free,18-24,Los Angeles,FALSE
+USER_0247,Free,45+,Montreal,TRUE
+USER_0254,Free,18-24,London,FALSE
+USER_0257,Premium,25-34,Montreal,TRUE
+USER_0260,Premium,25-34,Los Angeles,FALSE
+USER_0264,Premium,18-24,London,FALSE
+USER_0273,Free,25-34,New York City,FALSE
+USER_0276,Premium,25-34,Montreal,TRUE
+USER_0289,Premium,18-24,London,FALSE
+USER_0296,Free,35-44,New York City,FALSE
+USER_0308,Premium,25-34,London,FALSE
+USER_0309,Free,35-44,New York City,FALSE
+USER_0327,Premium,35-44,Montreal,TRUE
+USER_0334,Premium,25-34,Vancouver,FALSE
+USER_0336,Premium,25-34,Toronto,FALSE
+USER_0348,Premium,25-34,Vancouver,FALSE
+USER_0353,Premium,35-44,Montreal,TRUE
+USER_0361,Free,18-24,Vancouver,FALSE
+USER_0387,Free,18-24,New York City,FALSE
+USER_0399,Premium,18-24,Los Angeles,FALSE
+USER_0409,Premium,18-24,Toronto,FALSE
+USER_0410,Free,45+,Los Angeles,FALSE
+USER_0419,Premium,18-24,Los Angeles,FALSE
+USER_0420,Free,18-24,Los Angeles,FALSE
+USER_0423,Free,18-24,Toronto,FALSE
+USER_0427,Free,18-24,New York City,FALSE
+USER_0439,Premium,35-44,Toronto,FALSE
+USER_0440,Free,25-34,Montreal,TRUE
+USER_0450,Free,25-34,Los Angeles,FALSE
+USER_0451,Free,18-24,London,FALSE
+USER_0470,Free,35-44,New York City,FALSE
+USER_0471,Premium,18-24,Los Angeles,FALSE
+USER_0479,Premium,18-24,Vancouver,FALSE
+USER_0484,Free,25-34,Toronto,FALSE
+USER_0529,Premium,45+,London,FALSE
+USER_0530,Premium,18-24,Vancouver,FALSE
+USER_0533,Free,18-24,Montreal,TRUE
+USER_0551,Premium,18-24,Vancouver,FALSE
+USER_0563,Free,35-44,Los Angeles,FALSE
+USER_0564,Premium,35-44,Los Angeles,FALSE
+USER_0566,Free,18-24,Montreal,TRUE
+USER_0572,Free,25-34,Los Angeles,FALSE
+USER_0576,Premium,45+,Montreal,TRUE
+USER_0607,Free,18-24,Los Angeles,FALSE
+USER_0629,Premium,45+,Los Angeles,FALSE
+USER_0630,Free,18-24,Montreal,TRUE
+USER_0634,Free,45+,New York City,FALSE
+USER_0637,Free,18-24,Vancouver,FALSE
+USER_0641,Free,25-34,Vancouver,FALSE
+USER_0643,Premium,18-24,New York City,FALSE
+USER_0646,Free,45+,Vancouver,FALSE
+USER_0665,Free,18-24,Vancouver,FALSE
+USER_0685,Premium,35-44,Los Angeles,FALSE
+USER_0695,Free,18-24,Los Angeles,FALSE
+USER_0713,Free,18-24,Montreal,TRUE
+USER_0720,Free,25-34,Toronto,FALSE
+USER_0726,Premium,35-44,Montreal,TRUE
+USER_0739,Premium,25-34,Los Angeles,FALSE
+USER_0742,Free,25-34,Los Angeles,FALSE
+USER_0761,Premium,35-44,Montreal,TRUE
+USER_0787,Premium,25-34,Vancouver,FALSE
+USER_0790,Free,25-34,Toronto,FALSE
+USER_0799,Free,18-24,London,FALSE
+USER_0820,Premium,25-34,Vancouver,FALSE
+USER_0827,Free,18-24,New York City,FALSE
+USER_0832,Premium,18-24,Toronto,FALSE
+USER_0840,Premium,25-34,New York City,FALSE
+USER_0847,Free,35-44,Montreal,TRUE
+USER_0851,Free,18-24,Toronto,FALSE
+USER_0868,Premium,45+,Toronto,FALSE
+USER_0897,Premium,35-44,Toronto,FALSE
+USER_0907,Premium,18-24,Toronto,FALSE
+USER_0945,Premium,25-34,Vancouver,FALSE
+USER_0954,Free,18-24,Toronto,FALSE
+USER_0961,Premium,45+,Vancouver,FALSE
+USER_0979,Premium,18-24,Montreal,TRUE
+USER_0981,Free,18-24,New York City,FALSE
+USER_1002,Free,45+,New York City,FALSE
+USER_1019,Premium,35-44,Vancouver,FALSE
+USER_1030,Premium,18-24,London,FALSE
+USER_1043,Premium,25-34,New York City,FALSE
+USER_1056,Premium,35-44,Montreal,TRUE
+USER_1066,Premium,25-34,Vancouver,FALSE
+USER_1078,Premium,35-44,Toronto,FALSE
+USER_1090,Free,18-24,Toronto,FALSE
+USER_1096,Premium,25-34,Vancouver,FALSE
+USER_1104,Premium,25-34,London,FALSE
+USER_1106,Premium,25-34,Toronto,FALSE
+USER_1129,Free,25-34,Toronto,FALSE
+USER_1137,Free,25-34,New York City,FALSE
+USER_1161,Free,18-24,Los Angeles,FALSE
+USER_1180,Free,18-24,Montreal,TRUE
+USER_1185,Free,25-34,Montreal,TRUE
+USER_1195,Premium,18-24,New York City,FALSE
+USER_1203,Free,18-24,Montreal,TRUE
+USER_1215,Free,18-24,Montreal,TRUE
+USER_1219,Premium,18-24,Toronto,FALSE
+USER_1221,Free,25-34,Montreal,TRUE
+USER_1224,Free,45+,Montreal,TRUE
+USER_1230,Free,18-24,London,FALSE
+USER_1234,Free,18-24,London,FALSE
+USER_1259,Free,18-24,London,FALSE
+USER_1265,Free,18-24,New York City,FALSE
+USER_1273,Premium,18-24,Los Angeles,FALSE
+USER_1286,Free,18-24,Toronto,FALSE
+USER_1295,Free,35-44,Vancouver,FALSE
+USER_1299,Premium,18-24,New York City,FALSE
+USER_1309,Premium,18-24,Montreal,TRUE
+USER_1326,Premium,25-34,Montreal,TRUE
+USER_1345,Premium,25-34,Los Angeles,FALSE
+USER_1351,Free,25-34,Toronto,FALSE
+USER_1361,Free,18-24,Montreal,TRUE
+USER_1362,Free,25-34,Toronto,FALSE
+USER_1383,Premium,25-34,London,FALSE
+USER_1388,Premium,18-24,Vancouver,FALSE
+USER_1396,Premium,18-24,Toronto,FALSE
+USER_1400,Free,18-24,Montreal,TRUE
+USER_1406,Premium,25-34,Vancouver,FALSE
+USER_1412,Premium,18-24,New York City,FALSE
+USER_1419,Premium,18-24,Toronto,FALSE
+USER_1423,Premium,18-24,Montreal,TRUE
+USER_1447,Premium,18-24,New York City,FALSE
+USER_1456,Premium,18-24,Toronto,FALSE
+USER_1467,Premium,18-24,London,FALSE
+USER_1495,Free,25-34,Toronto,FALSE
+USER_1498,Free,18-24,Los Angeles,FALSE
+USER_1516,Premium,18-24,Montreal,TRUE
+USER_1532,Premium,18-24,Vancouver,FALSE
+USER_1535,Premium,25-34,Los Angeles,FALSE
+USER_1543,Free,18-24,New York City,FALSE
+USER_1544,Premium,18-24,Montreal,TRUE
+USER_1546,Premium,18-24,London,FALSE
+USER_1550,Free,25-34,Toronto,FALSE
+USER_1565,Free,25-34,Toronto,FALSE
+USER_1573,Premium,35-44,London,FALSE
+USER_1577,Free,35-44,Los Angeles,FALSE
+USER_1598,Free,45+,New York City,FALSE
+USER_1607,Premium,25-34,New York City,FALSE
+USER_1613,Free,25-34,Toronto,FALSE
+USER_1623,Free,45+,Los Angeles,FALSE
+USER_1632,Free,45+,Vancouver,FALSE
+USER_1633,Premium,18-24,Vancouver,FALSE
+USER_1657,Free,18-24,Los Angeles,FALSE
+USER_1661,Free,35-44,Montreal,TRUE
+USER_1680,Free,35-44,London,FALSE
+USER_1695,Free,18-24,Los Angeles,FALSE
+USER_1707,Premium,25-34,New York City,FALSE
+USER_1729,Premium,18-24,New York City,FALSE
+USER_1737,Premium,18-24,Toronto,FALSE
+USER_1757,Free,18-24,New York City,FALSE
+USER_1759,Premium,45+,Montreal,TRUE
+USER_1760,Premium,25-34,New York City,FALSE
+USER_1765,Premium,25-34,Los Angeles,FALSE
+USER_1774,Premium,18-24,London,FALSE
+USER_1775,Premium,25-34,Montreal,TRUE
+USER_1785,Free,18-24,Montreal,TRUE
+USER_1804,Premium,35-44,Montreal,TRUE
+USER_1807,Free,18-24,London,FALSE
+USER_1825,Free,18-24,New York City,FALSE
+USER_1828,Free,25-34,London,FALSE
+USER_1837,Free,25-34,Los Angeles,FALSE
+USER_1841,Premium,18-24,Los Angeles,FALSE
+USER_1850,Free,18-24,Montreal,TRUE
+USER_1851,Premium,18-24,Los Angeles,FALSE
+USER_1864,Free,35-44,London,FALSE
+USER_1875,Premium,35-44,London,FALSE
+USER_1878,Premium,18-24,Los Angeles,FALSE
+USER_1890,Free,18-24,Vancouver,FALSE
+USER_1894,Premium,25-34,London,FALSE
+USER_1913,Premium,18-24,Montreal,TRUE
+USER_1923,Free,35-44,Los Angeles,FALSE
+USER_1956,Free,25-34,Los Angeles,FALSE
+USER_1968,Free,18-24,New York City,FALSE
+USER_1992,Premium,25-34,Los Angeles,FALSE
+USER_2015,Free,18-24,New York City,FALSE
+USER_2017,Free,18-24,Montreal,TRUE
+USER_2026,Free,35-44,Vancouver,FALSE
+USER_2035,Premium,18-24,Montreal,TRUE
+USER_2065,Premium,18-24,New York City,FALSE
+USER_2090,Free,45+,Montreal,TRUE
+USER_2116,Free,45+,Toronto,FALSE
+USER_2131,Premium,18-24,Vancouver,FALSE
+USER_2145,Premium,18-24,Montreal,TRUE
+USER_2148,Free,18-24,Vancouver,FALSE
+USER_2159,Free,18-24,London,FALSE
+USER_2160,Free,18-24,London,FALSE
+USER_2167,Free,35-44,London,FALSE
+USER_2171,Premium,18-24,Los Angeles,FALSE
+USER_2179,Free,18-24,London,FALSE
+USER_2229,Free,18-24,Montreal,TRUE
+USER_2249,Free,18-24,New York City,FALSE
+USER_2253,Premium,45+,Montreal,TRUE
+USER_2255,Premium,18-24,Toronto,FALSE
+USER_2257,Premium,25-34,Los Angeles,FALSE
+USER_2295,Free,18-24,Los Angeles,FALSE
+USER_2306,Premium,18-24,Vancouver,FALSE
+USER_2313,Free,18-24,Vancouver,FALSE
+USER_2320,Free,25-34,Vancouver,FALSE
+USER_2366,Free,35-44,Montreal,TRUE
+USER_2370,Premium,18-24,Montreal,TRUE
+USER_2386,Premium,25-34,Montreal,TRUE
+USER_2388,Free,18-24,New York City,FALSE
+USER_2390,Premium,35-44,Montreal,TRUE
+USER_2398,Free,18-24,New York City,FALSE
+USER_2401,Free,25-34,Vancouver,FALSE
+USER_2436,Free,25-34,Vancouver,FALSE
+USER_2466,Free,18-24,Los Angeles,FALSE
+USER_2469,Premium,18-24,London,FALSE
+USER_2480,Premium,18-24,Los Angeles,FALSE
+USER_2492,Free,45+,Vancouver,FALSE
+USER_2494,Premium,25-34,Vancouver,FALSE
+USER_2500,Premium,35-44,London,FALSE
+USER_2515,Free,25-34,New York City,FALSE
+USER_2519,Premium,18-24,Montreal,TRUE
+USER_2520,Free,18-24,Toronto,FALSE
+USER_2526,Premium,25-34,London,FALSE
+USER_2529,Free,18-24,Toronto,FALSE
+USER_2543,Free,25-34,New York City,FALSE
+USER_2556,Premium,18-24,Vancouver,FALSE
+USER_2557,Premium,45+,Vancouver,FALSE
+USER_2571,Premium,18-24,Los Angeles,FALSE
+USER_2572,Free,25-34,Vancouver,FALSE
+USER_2586,Free,18-24,Montreal,TRUE
+USER_2591,Premium,18-24,London,FALSE
+USER_2600,Free,18-24,Los Angeles,FALSE
+USER_2617,Free,25-34,Montreal,TRUE
+USER_2621,Premium,18-24,Montreal,TRUE
+USER_2628,Premium,25-34,London,FALSE
+USER_2634,Free,18-24,Los Angeles,FALSE
+USER_2647,Premium,25-34,London,FALSE
+USER_2668,Premium,18-24,Vancouver,FALSE
+USER_2681,Premium,18-24,New York City,FALSE
+USER_2690,Free,25-34,London,FALSE
+USER_2693,Free,25-34,New York City,FALSE
+USER_2697,Premium,25-34,London,FALSE
+USER_2698,Premium,18-24,Vancouver,FALSE
+USER_2700,Free,25-34,Montreal,TRUE
+USER_2705,Free,18-24,Toronto,FALSE
+USER_2706,Free,35-44,London,FALSE
+USER_2709,Premium,25-34,Vancouver,FALSE
+USER_2714,Premium,25-34,Toronto,FALSE
+USER_2732,Premium,18-24,Toronto,FALSE
+USER_2734,Free,25-34,London,FALSE
+USER_2736,Free,35-44,Los Angeles,FALSE
+USER_2749,Premium,18-24,London,FALSE
+USER_2763,Premium,45+,Montreal,TRUE
+USER_2784,Free,25-34,Los Angeles,FALSE
+USER_2791,Premium,18-24,Toronto,FALSE
+USER_2794,Free,18-24,New York City,FALSE
+USER_2799,Premium,18-24,Montreal,TRUE
+USER_2814,Premium,18-24,New York City,FALSE
+USER_2824,Free,35-44,Los Angeles,FALSE
+USER_2829,Free,18-24,London,FALSE
+USER_2833,Free,35-44,Montreal,TRUE
+USER_2837,Free,25-34,Montreal,TRUE
+USER_2838,Free,18-24,Vancouver,FALSE
+USER_2848,Premium,25-34,Los Angeles,FALSE
+USER_2852,Free,35-44,Montreal,TRUE
+USER_2856,Premium,35-44,Vancouver,FALSE
+USER_2870,Free,35-44,Montreal,TRUE
+USER_2901,Premium,35-44,Los Angeles,FALSE
+USER_2912,Premium,18-24,Toronto,FALSE
+USER_2916,Premium,35-44,Los Angeles,FALSE
+USER_2918,Free,35-44,Toronto,FALSE
+USER_2935,Free,25-34,Toronto,FALSE
+USER_2941,Premium,18-24,Toronto,FALSE
+USER_2965,Premium,25-34,Toronto,FALSE
+USER_2977,Free,18-24,Vancouver,FALSE
+USER_3018,Premium,18-24,Vancouver,FALSE
+USER_3025,Premium,35-44,Montreal,TRUE
+USER_3035,Premium,18-24,Vancouver,FALSE
+USER_3044,Free,25-34,Vancouver,FALSE
+USER_3047,Free,18-24,New York City,FALSE
+USER_3050,Free,25-34,Montreal,TRUE
+USER_3062,Free,18-24,Los Angeles,FALSE
+USER_3066,Premium,18-24,London,FALSE
+USER_3070,Premium,18-24,London,FALSE
+USER_3072,Premium,18-24,Vancouver,FALSE
+USER_3093,Free,18-24,Toronto,FALSE
+USER_3140,Free,18-24,Montreal,TRUE
+USER_3143,Free,25-34,Vancouver,FALSE
+USER_3149,Free,18-24,Vancouver,FALSE
+USER_3160,Free,18-24,New York City,FALSE
+USER_3166,Premium,18-24,New York City,FALSE
+USER_3172,Premium,35-44,Vancouver,FALSE
+USER_3176,Premium,25-34,Toronto,FALSE
+USER_3183,Premium,18-24,Vancouver,FALSE
+USER_3190,Free,25-34,New York City,FALSE
+USER_3194,Premium,35-44,New York City,FALSE
+USER_3197,Premium,35-44,London,FALSE
+USER_3201,Premium,25-34,Toronto,FALSE
+USER_3206,Premium,18-24,London,FALSE
+USER_3225,Premium,35-44,Montreal,TRUE
+USER_3246,Free,18-24,New York City,FALSE
+USER_3248,Premium,25-34,Toronto,FALSE
+USER_3251,Premium,25-34,Toronto,FALSE
+USER_3258,Free,18-24,Los Angeles,FALSE
+USER_3264,Premium,18-24,London,FALSE
+USER_3290,Premium,18-24,New York City,FALSE
+USER_3306,Free,25-34,Vancouver,FALSE
+USER_3330,Free,18-24,London,FALSE
+USER_3334,Premium,35-44,Toronto,FALSE
+USER_3338,Premium,35-44,London,FALSE
+USER_3339,Free,18-24,Los Angeles,FALSE
+USER_3352,Premium,18-24,Toronto,FALSE
+USER_3366,Free,18-24,Los Angeles,FALSE
+USER_3375,Free,35-44,Toronto,FALSE
+USER_3408,Free,18-24,Los Angeles,FALSE
+USER_3418,Premium,25-34,Toronto,FALSE
+USER_3445,Free,25-34,Los Angeles,FALSE
+USER_3462,Premium,18-24,Los Angeles,FALSE
+USER_3480,Premium,18-24,Vancouver,FALSE
+USER_3484,Premium,18-24,Toronto,FALSE
+USER_3485,Premium,25-34,Toronto,FALSE
+USER_3511,Premium,18-24,Vancouver,FALSE
+USER_3518,Free,18-24,Montreal,TRUE
+USER_3533,Free,18-24,Montreal,TRUE
+USER_3540,Premium,18-24,New York City,FALSE
+USER_3583,Premium,25-34,Montreal,TRUE
+USER_3585,Free,35-44,London,FALSE
+USER_3599,Free,25-34,London,FALSE
+USER_3647,Premium,18-24,Los Angeles,FALSE
+USER_3669,Premium,18-24,New York City,FALSE
+USER_3671,Free,25-34,Vancouver,FALSE
+USER_3686,Free,25-34,Vancouver,FALSE
+USER_3688,Premium,18-24,Toronto,FALSE
+USER_3699,Premium,18-24,Montreal,TRUE
+USER_3705,Free,18-24,Toronto,FALSE
+USER_3710,Premium,45+,Toronto,FALSE
+USER_3712,Premium,18-24,Toronto,FALSE
+USER_3722,Premium,18-24,Los Angeles,FALSE
+USER_3729,Premium,35-44,Los Angeles,FALSE
+USER_3743,Free,18-24,London,FALSE
+USER_3753,Premium,18-24,Montreal,TRUE
+USER_3757,Free,18-24,London,FALSE
+USER_3761,Free,18-24,Montreal,TRUE
+USER_3770,Free,35-44,Toronto,FALSE
+USER_3771,Premium,25-34,London,FALSE
+USER_3772,Free,18-24,Vancouver,FALSE
+USER_3774,Premium,18-24,London,FALSE
+USER_3817,Free,25-34,Vancouver,FALSE
+USER_3840,Premium,25-34,Los Angeles,FALSE
+USER_3844,Free,18-24,Vancouver,FALSE
+USER_3861,Free,18-24,London,FALSE
+USER_3868,Premium,25-34,Los Angeles,FALSE
+USER_3877,Premium,25-34,Los Angeles,FALSE
+USER_3890,Premium,18-24,Toronto,FALSE
+USER_3897,Premium,18-24,Montreal,TRUE
+USER_3903,Premium,18-24,Vancouver,FALSE
+USER_3904,Free,18-24,Vancouver,FALSE
+USER_3906,Premium,18-24,Montreal,TRUE
+USER_3910,Free,25-34,Los Angeles,FALSE
+USER_3912,Premium,35-44,London,FALSE
+USER_3929,Free,18-24,London,FALSE
+USER_3943,Premium,25-34,Montreal,TRUE
+USER_3946,Premium,35-44,New York City,FALSE
+USER_3960,Premium,25-34,London,FALSE
+USER_3969,Free,18-24,Los Angeles,FALSE
+USER_3970,Free,18-24,New York City,FALSE
+USER_3984,Free,25-34,Montreal,TRUE
+USER_3987,Premium,18-24,New York City,FALSE
+USER_3995,Free,25-34,Los Angeles,FALSE
+USER_4012,Free,18-24,New York City,FALSE
+USER_4024,Premium,18-24,Vancouver,FALSE
+USER_4036,Premium,25-34,London,FALSE
+USER_4047,Free,18-24,Los Angeles,FALSE
+USER_4059,Free,25-34,Vancouver,FALSE
+USER_4070,Premium,18-24,New York City,FALSE
+USER_4072,Premium,18-24,Los Angeles,FALSE
+USER_4095,Premium,25-34,Montreal,TRUE
+USER_4108,Free,18-24,Los Angeles,FALSE
+USER_4110,Free,18-24,Vancouver,FALSE
+USER_4115,Free,18-24,Toronto,FALSE
+USER_4122,Free,25-34,Vancouver,FALSE
+USER_4128,Free,18-24,New York City,FALSE
+USER_4131,Premium,35-44,Vancouver,FALSE
+USER_4132,Free,25-34,New York City,FALSE
+USER_4145,Premium,35-44,New York City,FALSE
+USER_4146,Free,25-34,Vancouver,FALSE
+USER_4159,Free,18-24,Vancouver,FALSE
+USER_4173,Free,18-24,London,FALSE
+USER_4175,Premium,18-24,Vancouver,FALSE
+USER_4190,Free,18-24,Montreal,TRUE
+USER_4195,Premium,18-24,Vancouver,FALSE
+USER_4219,Free,18-24,Montreal,TRUE
+USER_4241,Premium,25-34,London,FALSE
+USER_4250,Free,25-34,Montreal,TRUE
+USER_4255,Free,25-34,Vancouver,FALSE
+USER_4257,Premium,18-24,Montreal,TRUE
+USER_4258,Premium,45+,Toronto,FALSE
+USER_4259,Free,35-44,Montreal,TRUE
+USER_4268,Premium,18-24,New York City,FALSE
+USER_4280,Premium,18-24,Montreal,TRUE
+USER_4283,Premium,25-34,Toronto,FALSE
+USER_4337,Premium,18-24,Los Angeles,FALSE
+USER_4349,Free,18-24,New York City,FALSE
+USER_4351,Free,18-24,Los Angeles,FALSE
+USER_4354,Free,18-24,Los Angeles,FALSE
+USER_4358,Premium,18-24,New York City,FALSE
+USER_4384,Premium,35-44,London,FALSE
+USER_4392,Free,18-24,New York City,FALSE
+USER_4400,Premium,18-24,London,FALSE
+USER_4416,Free,18-24,Toronto,FALSE
+USER_4417,Premium,18-24,Montreal,TRUE
+USER_4426,Premium,25-34,London,FALSE
+USER_4439,Premium,35-44,Montreal,TRUE
+USER_4457,Free,18-24,Montreal,TRUE
+USER_4467,Free,18-24,Vancouver,FALSE
+USER_4485,Free,18-24,New York City,FALSE
+USER_4497,Free,18-24,Los Angeles,FALSE
+USER_4516,Free,35-44,Vancouver,FALSE
+USER_4533,Premium,18-24,Vancouver,FALSE
+USER_4549,Free,25-34,Los Angeles,FALSE
+USER_4551,Free,18-24,Toronto,FALSE
+USER_4580,Free,18-24,Toronto,FALSE
+USER_4602,Free,25-34,London,FALSE
+USER_4619,Premium,25-34,Toronto,FALSE
+USER_4624,Premium,18-24,Montreal,TRUE
+USER_4637,Premium,35-44,Toronto,FALSE
+USER_4638,Free,18-24,Vancouver,FALSE
+USER_4655,Premium,18-24,Montreal,TRUE
+USER_4666,Premium,18-24,Toronto,FALSE
+USER_4671,Free,18-24,Montreal,TRUE
+USER_4672,Free,25-34,Los Angeles,FALSE
+USER_4681,Free,18-24,Toronto,FALSE
+USER_4683,Premium,18-24,Toronto,FALSE
+USER_4700,Premium,18-24,Vancouver,FALSE
+USER_4703,Premium,18-24,Vancouver,FALSE
+USER_4708,Premium,25-34,London,FALSE
+USER_4709,Premium,35-44,London,FALSE
+USER_4726,Free,25-34,Montreal,TRUE
+USER_4749,Premium,18-24,Los Angeles,FALSE
+USER_4751,Premium,18-24,Montreal,TRUE
+USER_4759,Premium,35-44,London,FALSE
+USER_4786,Premium,25-34,New York City,FALSE
+USER_4806,Premium,18-24,Toronto,FALSE
+USER_4814,Free,45+,London,FALSE
+USER_4849,Premium,45+,Toronto,FALSE
+USER_4860,Premium,18-24,Vancouver,FALSE
+USER_4871,Free,35-44,Vancouver,FALSE
+USER_4890,Free,18-24,London,FALSE
+USER_4893,Free,25-34,Toronto,FALSE
+USER_4897,Free,18-24,Vancouver,FALSE
+USER_4918,Free,18-24,London,FALSE
+USER_4929,Free,25-34,London,FALSE
+USER_4943,Premium,25-34,Montreal,TRUE
+USER_4949,Premium,18-24,Los Angeles,FALSE
+USER_4950,Premium,35-44,Montreal,TRUE
+USER_4955,Premium,25-34,Los Angeles,FALSE
+USER_4957,Premium,45+,Toronto,FALSE
+USER_4972,Premium,35-44,Montreal,TRUE
+USER_4978,Free,18-24,Vancouver,FALSE
+USER_4987,Premium,18-24,London,FALSE
+USER_4997,Premium,18-24,Montreal,TRUE
+USER_0023,Premium,45+,Vancouver,FALSE
+USER_0029,Premium,25-34,Los Angeles,FALSE
+USER_0031,Premium,18-24,New York City,FALSE
+USER_0034,Premium,18-24,Toronto,FALSE
+USER_0052,Premium,35-44,New York City,FALSE
+USER_0056,Free,18-24,Montreal,TRUE
+USER_0057,Free,25-34,New York City,FALSE
+USER_0064,Premium,18-24,Toronto,FALSE
+USER_0070,Free,25-34,Los Angeles,FALSE
+USER_0093,Premium,18-24,New York City,FALSE
+USER_0149,Premium,18-24,Montreal,TRUE
+USER_0170,Premium,18-24,Los Angeles,FALSE
+USER_0186,Free,18-24,Vancouver,FALSE
+USER_0188,Free,45+,Los Angeles,FALSE
+USER_0192,Premium,18-24,Toronto,FALSE
+USER_0193,Free,45+,New York City,FALSE
+USER_0195,Free,35-44,Toronto,FALSE
+USER_0203,Premium,35-44,Los Angeles,FALSE
+USER_0214,Free,25-34,Montreal,TRUE
+USER_0245,Premium,45+,Montreal,TRUE
+USER_0258,Free,18-24,Los Angeles,FALSE
+USER_0266,Premium,25-34,Los Angeles,FALSE
+USER_0269,Free,18-24,London,FALSE
+USER_0325,Free,18-24,Toronto,FALSE
+USER_0345,Premium,25-34,London,FALSE
+USER_0369,Free,25-34,London,FALSE
+USER_0371,Free,25-34,London,FALSE
+USER_0389,Premium,25-34,New York City,FALSE
+USER_0390,Premium,18-24,Toronto,FALSE
+USER_0400,Free,45+,Los Angeles,FALSE
+USER_0406,Premium,25-34,Toronto,FALSE
+USER_0407,Free,18-24,Montreal,TRUE
+USER_0443,Free,45+,London,FALSE
+USER_0446,Premium,25-34,London,FALSE
+USER_0449,Free,45+,Toronto,FALSE
+USER_0457,Free,18-24,Vancouver,FALSE
+USER_0476,Free,18-24,Vancouver,FALSE
+USER_0486,Premium,25-34,Montreal,TRUE
+USER_0487,Free,18-24,London,FALSE
+USER_0489,Free,35-44,London,FALSE
+USER_0492,Premium,18-24,Los Angeles,FALSE
+USER_0499,Free,25-34,Toronto,FALSE
+USER_0500,Free,35-44,Toronto,FALSE
+USER_0506,Premium,25-34,New York City,FALSE
+USER_0507,Premium,25-34,Montreal,TRUE
+USER_0517,Free,25-34,Los Angeles,FALSE
+USER_0535,Free,18-24,Toronto,FALSE
+USER_0539,Premium,25-34,Vancouver,FALSE
+USER_0547,Premium,18-24,Los Angeles,FALSE
+USER_0549,Premium,45+,Montreal,TRUE
+USER_0558,Premium,18-24,Los Angeles,FALSE
+USER_0571,Free,35-44,London,FALSE
+USER_0573,Free,25-34,Toronto,FALSE
+USER_0598,Premium,25-34,New York City,FALSE
+USER_0636,Free,25-34,New York City,FALSE
+USER_0645,Free,45+,Toronto,FALSE
+USER_0650,Premium,18-24,Montreal,TRUE
+USER_0659,Free,25-34,Los Angeles,FALSE
+USER_0667,Premium,45+,Vancouver,FALSE
+USER_0674,Premium,45+,Montreal,TRUE
+USER_0684,Premium,35-44,Toronto,FALSE
+USER_0692,Premium,35-44,Montreal,TRUE
+USER_0703,Free,18-24,Los Angeles,FALSE
+USER_0706,Premium,18-24,Montreal,TRUE
+USER_0715,Premium,25-34,Montreal,TRUE
+USER_0716,Free,25-34,Toronto,FALSE
+USER_0730,Premium,25-34,New York City,FALSE
+USER_0738,Premium,45+,Montreal,TRUE
+USER_0747,Free,25-34,Vancouver,FALSE
+USER_0759,Premium,35-44,Montreal,TRUE
+USER_0785,Premium,35-44,Montreal,TRUE
+USER_0792,Premium,35-44,Montreal,TRUE
+USER_0819,Premium,18-24,London,FALSE
+USER_0822,Premium,18-24,New York City,FALSE
+USER_0824,Free,25-34,Toronto,FALSE
+USER_0843,Premium,18-24,Los Angeles,FALSE
+USER_0871,Free,45+,Toronto,FALSE
+USER_0874,Free,35-44,London,FALSE
+USER_0892,Premium,25-34,London,FALSE
+USER_0895,Free,35-44,Montreal,TRUE
+USER_0899,Free,18-24,Vancouver,FALSE
+USER_0901,Free,18-24,New York City,FALSE
+USER_0912,Premium,25-34,Montreal,TRUE
+USER_0917,Premium,25-34,Los Angeles,FALSE
+USER_0938,Premium,18-24,New York City,FALSE
+USER_0940,Premium,25-34,Toronto,FALSE
+USER_0946,Premium,45+,Vancouver,FALSE
+USER_0952,Free,18-24,London,FALSE
+USER_0969,Premium,25-34,Toronto,FALSE
+USER_0983,Free,45+,Vancouver,FALSE
+USER_0992,Free,45+,London,FALSE
+USER_1001,Free,35-44,Los Angeles,FALSE
+USER_1004,Premium,45+,New York City,FALSE
+USER_1026,Free,18-24,London,FALSE
+USER_1042,Premium,18-24,Toronto,FALSE
+USER_1050,Premium,25-34,Montreal,TRUE
+USER_1063,Premium,18-24,London,FALSE
+USER_1071,Premium,35-44,Los Angeles,FALSE
+USER_1084,Premium,35-44,London,FALSE
+USER_1094,Free,35-44,Toronto,FALSE
+USER_1099,Premium,45+,London,FALSE
+USER_1118,Free,25-34,Toronto,FALSE
+USER_1120,Premium,18-24,Vancouver,FALSE
+USER_1122,Premium,18-24,Toronto,FALSE
+USER_1146,Free,25-34,London,FALSE
+USER_1150,Premium,18-24,Toronto,FALSE
+USER_1158,Premium,35-44,Vancouver,FALSE
+USER_1159,Free,45+,Montreal,TRUE
+USER_1162,Free,18-24,London,FALSE
+USER_1166,Free,25-34,New York City,FALSE
+USER_1184,Free,18-24,New York City,FALSE
+USER_1189,Free,25-34,London,FALSE
+USER_1207,Premium,45+,New York City,FALSE
+USER_1216,Premium,45+,Vancouver,FALSE
+USER_1237,Premium,35-44,Los Angeles,FALSE
+USER_1238,Free,25-34,Vancouver,FALSE
+USER_1263,Free,18-24,London,FALSE
+USER_1285,Premium,18-24,New York City,FALSE
+USER_1294,Free,45+,London,FALSE
+USER_1302,Premium,18-24,Montreal,TRUE
+USER_1318,Free,25-34,Montreal,TRUE
+USER_1333,Premium,18-24,Montreal,TRUE
+USER_1346,Free,18-24,Montreal,TRUE
+USER_1349,Premium,35-44,London,FALSE
+USER_1356,Premium,25-34,Toronto,FALSE
+USER_1372,Premium,35-44,New York City,FALSE
+USER_1386,Premium,25-34,London,FALSE
+USER_1391,Premium,25-34,Los Angeles,FALSE
+USER_1399,Free,18-24,London,FALSE
+USER_1404,Free,45+,Montreal,TRUE
+USER_1411,Premium,35-44,Vancouver,FALSE
+USER_1417,Free,18-24,Montreal,TRUE
+USER_1428,Premium,35-44,London,FALSE
+USER_1440,Premium,18-24,Toronto,FALSE
+USER_1449,Premium,25-34,Toronto,FALSE
+USER_1450,Free,45+,Los Angeles,FALSE
+USER_1457,Free,25-34,Vancouver,FALSE
+USER_1466,Free,45+,London,FALSE
+USER_1470,Premium,25-34,Los Angeles,FALSE
+USER_1483,Free,45+,New York City,FALSE
+USER_1492,Premium,25-34,Vancouver,FALSE
+USER_1506,Free,18-24,Los Angeles,FALSE
+USER_1510,Free,18-24,New York City,FALSE
+USER_1523,Premium,45+,Vancouver,FALSE
+USER_1559,Premium,18-24,London,FALSE
+USER_1583,Premium,18-24,Toronto,FALSE
+USER_1594,Free,18-24,Montreal,TRUE
+USER_1612,Free,18-24,Los Angeles,FALSE
+USER_1636,Premium,35-44,Los Angeles,FALSE
+USER_1652,Free,18-24,New York City,FALSE
+USER_1655,Free,35-44,Vancouver,FALSE
+USER_1665,Premium,18-24,Montreal,TRUE
+USER_1687,Free,35-44,London,FALSE
+USER_1693,Premium,18-24,Montreal,TRUE
+USER_1697,Premium,18-24,Vancouver,FALSE
+USER_1709,Premium,18-24,Toronto,FALSE
+USER_1712,Free,25-34,London,FALSE
+USER_1714,Premium,25-34,New York City,FALSE
+USER_1718,Premium,35-44,London,FALSE
+USER_1724,Premium,18-24,London,FALSE
+USER_1768,Free,18-24,Montreal,TRUE
+USER_1776,Free,25-34,Vancouver,FALSE
+USER_1794,Premium,45+,Los Angeles,FALSE
+USER_1805,Premium,35-44,Los Angeles,FALSE
+USER_1810,Premium,35-44,Vancouver,FALSE
+USER_1826,Free,25-34,Los Angeles,FALSE
+USER_1829,Premium,25-34,Montreal,TRUE
+USER_1857,Free,18-24,Vancouver,FALSE
+USER_1888,Free,35-44,Vancouver,FALSE
+USER_1889,Free,35-44,Los Angeles,FALSE
+USER_1904,Free,45+,Toronto,FALSE
+USER_1905,Free,45+,Vancouver,FALSE
+USER_1915,Free,25-34,Montreal,TRUE
+USER_1948,Premium,25-34,New York City,FALSE
+USER_1951,Free,25-34,Toronto,FALSE
+USER_1964,Free,25-34,New York City,FALSE
+USER_1977,Premium,25-34,Toronto,FALSE
+USER_1984,Free,25-34,London,FALSE
+USER_1994,Premium,18-24,Vancouver,FALSE
+USER_2004,Premium,35-44,London,FALSE
+USER_2009,Free,35-44,Toronto,FALSE
+USER_2037,Premium,45+,New York City,FALSE
+USER_2043,Free,45+,Montreal,TRUE
+USER_2054,Free,25-34,New York City,FALSE
+USER_2058,Free,35-44,Vancouver,FALSE
+USER_2071,Free,25-34,New York City,FALSE
+USER_2095,Premium,18-24,Montreal,TRUE
+USER_2096,Premium,25-34,Los Angeles,FALSE
+USER_2098,Premium,18-24,Los Angeles,FALSE
+USER_2101,Free,18-24,New York City,FALSE
+USER_2115,Free,35-44,Montreal,TRUE
+USER_2122,Free,18-24,London,FALSE
+USER_2124,Premium,25-34,New York City,FALSE
+USER_2132,Free,18-24,New York City,FALSE
+USER_2137,Premium,25-34,Los Angeles,FALSE
+USER_2141,Premium,25-34,New York City,FALSE
+USER_2149,Premium,18-24,Los Angeles,FALSE
+USER_2154,Free,35-44,New York City,FALSE
+USER_2158,Premium,25-34,London,FALSE
+USER_2173,Premium,18-24,Toronto,FALSE
+USER_2180,Premium,18-24,Los Angeles,FALSE
+USER_2184,Premium,18-24,New York City,FALSE
+USER_2202,Premium,18-24,Toronto,FALSE
+USER_2215,Premium,25-34,Toronto,FALSE
+USER_2225,Free,25-34,London,FALSE
+USER_2232,Free,25-34,Vancouver,FALSE
+USER_2239,Premium,18-24,Montreal,TRUE
+USER_2278,Free,45+,Montreal,TRUE
+USER_2309,Premium,25-34,Toronto,FALSE
+USER_2321,Premium,25-34,New York City,FALSE
+USER_2338,Free,35-44,Los Angeles,FALSE
+USER_2339,Free,18-24,Vancouver,FALSE
+USER_2399,Free,18-24,New York City,FALSE
+USER_2416,Free,18-24,Montreal,TRUE
+USER_2434,Premium,25-34,New York City,FALSE
+USER_2440,Premium,25-34,London,FALSE
+USER_2441,Premium,35-44,Los Angeles,FALSE
+USER_2474,Free,25-34,Vancouver,FALSE
+USER_2488,Premium,25-34,London,FALSE
+USER_2490,Free,18-24,Los Angeles,FALSE
+USER_2496,Premium,25-34,Los Angeles,FALSE
+USER_2497,Premium,25-34,Los Angeles,FALSE
+USER_2499,Free,18-24,Vancouver,FALSE
+USER_2505,Premium,35-44,Montreal,TRUE
+USER_2510,Free,18-24,Toronto,FALSE
+USER_2523,Free,35-44,Toronto,FALSE
+USER_2536,Free,25-34,New York City,FALSE
+USER_2549,Premium,18-24,Montreal,TRUE
+USER_2566,Premium,25-34,Los Angeles,FALSE
+USER_2611,Free,35-44,Toronto,FALSE
+USER_2635,Premium,45+,Vancouver,FALSE
+USER_2636,Premium,18-24,London,FALSE
+USER_2641,Free,35-44,London,FALSE
+USER_2648,Free,35-44,New York City,FALSE
+USER_2670,Premium,35-44,London,FALSE
+USER_2671,Free,35-44,New York City,FALSE
+USER_2684,Premium,18-24,Toronto,FALSE
+USER_2707,Premium,35-44,New York City,FALSE
+USER_2716,Premium,35-44,Toronto,FALSE
+USER_2721,Premium,35-44,Los Angeles,FALSE
+USER_2745,Premium,25-34,Montreal,TRUE
+USER_2746,Free,18-24,Los Angeles,FALSE
+USER_2751,Premium,18-24,New York City,FALSE
+USER_2757,Free,18-24,New York City,FALSE
+USER_2761,Premium,25-34,Toronto,FALSE
+USER_2770,Premium,18-24,Toronto,FALSE
+USER_2787,Premium,45+,London,FALSE
+USER_2808,Premium,25-34,New York City,FALSE
+USER_2839,Free,18-24,Montreal,TRUE
+USER_2867,Free,35-44,Vancouver,FALSE
+USER_2868,Free,18-24,Vancouver,FALSE
+USER_2869,Premium,18-24,London,FALSE
+USER_2872,Premium,45+,London,FALSE
+USER_2877,Premium,35-44,Montreal,TRUE
+USER_2886,Free,18-24,London,FALSE
+USER_2894,Free,25-34,New York City,FALSE
+USER_2919,Free,25-34,New York City,FALSE
+USER_2926,Free,18-24,Montreal,TRUE
+USER_2928,Free,18-24,London,FALSE
+USER_2934,Premium,25-34,London,FALSE
+USER_2937,Premium,18-24,Los Angeles,FALSE
+USER_2938,Premium,18-24,New York City,FALSE
+USER_2959,Free,18-24,Toronto,FALSE
+USER_2969,Free,18-24,London,FALSE
+USER_2986,Premium,18-24,New York City,FALSE
+USER_3014,Premium,25-34,Vancouver,FALSE
+USER_3032,Premium,18-24,Montreal,TRUE
+USER_3039,Premium,35-44,New York City,FALSE
+USER_3095,Free,45+,London,FALSE
+USER_3099,Premium,18-24,New York City,FALSE
+USER_3112,Free,35-44,Toronto,FALSE
+USER_3132,Premium,35-44,London,FALSE
+USER_3138,Free,25-34,New York City,FALSE
+USER_3139,Premium,35-44,London,FALSE
+USER_3147,Premium,25-34,New York City,FALSE
+USER_3156,Premium,35-44,Los Angeles,FALSE
+USER_3158,Premium,25-34,Vancouver,FALSE
+USER_3187,Premium,18-24,Los Angeles,FALSE
+USER_3202,Free,18-24,London,FALSE
+USER_3231,Free,35-44,Vancouver,FALSE
+USER_3234,Premium,25-34,Vancouver,FALSE
+USER_3235,Premium,25-34,London,FALSE
+USER_3236,Free,25-34,Montreal,TRUE
+USER_3238,Free,25-34,London,FALSE
+USER_3259,Free,45+,New York City,FALSE
+USER_3261,Free,25-34,Montreal,TRUE
+USER_3280,Premium,45+,Toronto,FALSE
+USER_3315,Premium,25-34,Toronto,FALSE
+USER_3368,Premium,35-44,Vancouver,FALSE
+USER_3402,Premium,25-34,Toronto,FALSE
+USER_3409,Premium,25-34,New York City,FALSE
+USER_3427,Free,25-34,Los Angeles,FALSE
+USER_3432,Premium,45+,Los Angeles,FALSE
+USER_3433,Free,25-34,New York City,FALSE
+USER_3439,Premium,18-24,Montreal,TRUE
+USER_3452,Premium,25-34,New York City,FALSE
+USER_3458,Free,18-24,Montreal,TRUE
+USER_3461,Premium,18-24,Vancouver,FALSE
+USER_3463,Free,35-44,New York City,FALSE
+USER_3473,Premium,25-34,Vancouver,FALSE
+USER_3476,Free,25-34,London,FALSE
+USER_3499,Free,35-44,New York City,FALSE
+USER_3515,Premium,18-24,Montreal,TRUE
+USER_3517,Premium,35-44,Toronto,FALSE
+USER_3521,Premium,25-34,Los Angeles,FALSE
+USER_3528,Free,35-44,Vancouver,FALSE
+USER_3532,Free,35-44,New York City,FALSE
+USER_3558,Premium,35-44,Los Angeles,FALSE
+USER_3569,Premium,35-44,Los Angeles,FALSE
+USER_3596,Free,18-24,Vancouver,FALSE
+USER_3597,Free,18-24,London,FALSE
+USER_3598,Free,18-24,Toronto,FALSE
+USER_3633,Free,25-34,London,FALSE
+USER_3641,Free,18-24,Montreal,TRUE
+USER_3643,Free,35-44,New York City,FALSE
+USER_3644,Free,18-24,London,FALSE
+USER_3650,Free,18-24,London,FALSE
+USER_3658,Premium,25-34,New York City,FALSE
+USER_3673,Premium,35-44,New York City,FALSE
+USER_3679,Free,18-24,New York City,FALSE
+USER_3692,Free,25-34,Vancouver,FALSE
+USER_3706,Free,25-34,New York City,FALSE
+USER_3715,Premium,18-24,Los Angeles,FALSE
+USER_3731,Premium,35-44,Vancouver,FALSE
+USER_3750,Premium,18-24,Montreal,TRUE
+USER_3756,Free,35-44,London,FALSE
+USER_3775,Premium,18-24,London,FALSE
+USER_3781,Free,35-44,New York City,FALSE
+USER_3836,Free,18-24,Los Angeles,FALSE
+USER_3857,Premium,25-34,London,FALSE
+USER_3859,Premium,18-24,Los Angeles,FALSE
+USER_3872,Premium,35-44,Vancouver,FALSE
+USER_3883,Premium,35-44,London,FALSE
+USER_3884,Premium,18-24,London,FALSE
+USER_3913,Free,35-44,Los Angeles,FALSE
+USER_3924,Premium,25-34,New York City,FALSE
+USER_3932,Free,25-34,New York City,FALSE
+USER_3964,Free,18-24,Vancouver,FALSE
+USER_3975,Free,35-44,New York City,FALSE
+USER_3979,Premium,18-24,Toronto,FALSE
+USER_3980,Premium,18-24,Toronto,FALSE
+USER_3993,Free,25-34,Toronto,FALSE
+USER_4002,Premium,18-24,Vancouver,FALSE
+USER_4015,Free,45+,Toronto,FALSE
+USER_4022,Premium,25-34,New York City,FALSE
+USER_4043,Free,35-44,London,FALSE
+USER_4055,Free,18-24,London,FALSE
+USER_4058,Premium,25-34,London,FALSE
+USER_4068,Premium,35-44,New York City,FALSE
+USER_4074,Free,45+,New York City,FALSE
+USER_4088,Premium,18-24,New York City,FALSE
+USER_4098,Free,25-34,Montreal,TRUE
+USER_4101,Premium,45+,Montreal,TRUE
+USER_4114,Premium,18-24,New York City,FALSE
+USER_4116,Premium,18-24,New York City,FALSE
+USER_4177,Free,18-24,New York City,FALSE
+USER_4180,Premium,45+,Montreal,TRUE
+USER_4194,Premium,18-24,Vancouver,FALSE
+USER_4207,Premium,18-24,London,FALSE
+USER_4211,Free,35-44,New York City,FALSE
+USER_4215,Free,35-44,Vancouver,FALSE
+USER_4223,Free,18-24,Toronto,FALSE
+USER_4242,Free,18-24,Toronto,FALSE
+USER_4295,Free,25-34,London,FALSE
+USER_4297,Free,35-44,London,FALSE
+USER_4300,Free,18-24,Toronto,FALSE
+USER_4303,Free,35-44,Montreal,TRUE
+USER_4309,Premium,35-44,Vancouver,FALSE
+USER_4313,Premium,25-34,Los Angeles,FALSE
+USER_4360,Free,25-34,London,FALSE
+USER_4395,Premium,18-24,London,FALSE
+USER_4398,Premium,18-24,Los Angeles,FALSE
+USER_4406,Premium,25-34,Vancouver,FALSE
+USER_4410,Premium,35-44,Los Angeles,FALSE
+USER_4412,Premium,35-44,Toronto,FALSE
+USER_4427,Premium,25-34,Los Angeles,FALSE
+USER_4447,Premium,18-24,London,FALSE
+USER_4456,Premium,25-34,Los Angeles,FALSE
+USER_4458,Free,18-24,Los Angeles,FALSE
+USER_4469,Premium,25-34,Los Angeles,FALSE
+USER_4510,Premium,18-24,Toronto,FALSE
+USER_4530,Free,25-34,Toronto,FALSE
+USER_4541,Premium,35-44,New York City,FALSE
+USER_4550,Premium,18-24,Montreal,TRUE
+USER_4552,Free,18-24,New York City,FALSE
+USER_4554,Premium,25-34,Vancouver,FALSE
+USER_4560,Premium,25-34,Toronto,FALSE
+USER_4562,Free,18-24,Montreal,TRUE
+USER_4565,Free,25-34,Toronto,FALSE
+USER_4568,Premium,18-24,London,FALSE
+USER_4587,Premium,45+,Montreal,TRUE
+USER_4592,Premium,25-34,Montreal,TRUE
+USER_4595,Free,18-24,Toronto,FALSE
+USER_4599,Premium,45+,New York City,FALSE
+USER_4613,Premium,18-24,Toronto,FALSE
+USER_4614,Premium,35-44,Montreal,TRUE
+USER_4625,Free,25-34,Vancouver,FALSE
+USER_4631,Premium,45+,Los Angeles,FALSE
+USER_4635,Premium,35-44,Vancouver,FALSE
+USER_4636,Free,18-24,Montreal,TRUE
+USER_4656,Premium,18-24,London,FALSE
+USER_4673,Free,18-24,Toronto,FALSE
+USER_4688,Premium,18-24,Toronto,FALSE
+USER_4714,Premium,35-44,Vancouver,FALSE
+USER_4729,Premium,35-44,London,FALSE
+USER_4744,Free,25-34,London,FALSE
+USER_4756,Premium,45+,Toronto,FALSE
+USER_4767,Free,35-44,Los Angeles,FALSE
+USER_4781,Premium,25-34,New York City,FALSE
+USER_4799,Free,25-34,Vancouver,FALSE
+USER_4803,Premium,18-24,New York City,FALSE
+USER_4808,Premium,25-34,New York City,FALSE
+USER_4821,Premium,45+,Toronto,FALSE
+USER_4844,Premium,18-24,New York City,FALSE
+USER_4846,Premium,18-24,Los Angeles,FALSE
+USER_4851,Free,35-44,Vancouver,FALSE
+USER_4863,Free,18-24,London,FALSE
+USER_4864,Free,18-24,London,FALSE
+USER_4878,Premium,18-24,Vancouver,FALSE
+USER_4884,Premium,25-34,New York City,FALSE
+USER_4885,Premium,18-24,Vancouver,FALSE
+USER_4886,Premium,25-34,Los Angeles,FALSE
+USER_4895,Premium,35-44,Vancouver,FALSE
+USER_4898,Free,45+,New York City,FALSE
+USER_4907,Premium,25-34,New York City,FALSE
+USER_4963,Premium,25-34,New York City,FALSE
+USER_4980,Premium,25-34,New York City,FALSE
+USER_0009,Free,18-24,Los Angeles,FALSE
+USER_0026,Premium,25-34,New York City,FALSE
+USER_0037,Free,35-44,Los Angeles,FALSE
+USER_0041,Free,18-24,Toronto,FALSE
+USER_0045,Free,35-44,New York City,FALSE
+USER_0053,Premium,25-34,Montreal,TRUE
+USER_0055,Free,35-44,Los Angeles,FALSE
+USER_0058,Premium,25-34,New York City,FALSE
+USER_0071,Premium,25-34,New York City,FALSE
+USER_0081,Free,25-34,Toronto,FALSE
+USER_0101,Free,25-34,Los Angeles,FALSE
+USER_0103,Free,18-24,Montreal,TRUE
+USER_0122,Premium,18-24,Vancouver,FALSE
+USER_0126,Free,25-34,Vancouver,FALSE
+USER_0137,Free,35-44,Vancouver,FALSE
+USER_0147,Free,25-34,Toronto,FALSE
+USER_0165,Free,45+,Vancouver,FALSE
+USER_0166,Free,25-34,Vancouver,FALSE
+USER_0191,Free,25-34,Montreal,TRUE
+USER_0207,Free,25-34,London,FALSE
+USER_0226,Free,45+,Toronto,FALSE
+USER_0237,Premium,18-24,Montreal,TRUE
+USER_0265,Free,18-24,Toronto,FALSE
+USER_0284,Premium,25-34,Montreal,TRUE
+USER_0286,Premium,18-24,New York City,FALSE
+USER_0297,Free,45+,New York City,FALSE
+USER_0303,Free,35-44,Vancouver,FALSE
+USER_0304,Free,25-34,Vancouver,FALSE
+USER_0313,Premium,18-24,London,FALSE
+USER_0332,Free,18-24,Los Angeles,FALSE
+USER_0360,Free,35-44,New York City,FALSE
+USER_0366,Free,35-44,Toronto,FALSE
+USER_0377,Premium,35-44,Toronto,FALSE
+USER_0382,Free,25-34,Los Angeles,FALSE
+USER_0383,Free,18-24,London,FALSE
+USER_0388,Premium,25-34,Montreal,TRUE
+USER_0391,Premium,35-44,Vancouver,FALSE
+USER_0394,Premium,35-44,New York City,FALSE
+USER_0417,Premium,18-24,Toronto,FALSE
+USER_0431,Premium,35-44,New York City,FALSE
+USER_0432,Free,18-24,Los Angeles,FALSE
+USER_0445,Premium,35-44,Los Angeles,FALSE
+USER_0448,Free,25-34,Montreal,TRUE
+USER_0454,Free,18-24,London,FALSE
+USER_0458,Premium,18-24,Montreal,TRUE
+USER_0460,Free,25-34,Montreal,TRUE
+USER_0467,Free,25-34,Vancouver,FALSE
+USER_0496,Premium,18-24,Toronto,FALSE
+USER_0524,Premium,25-34,Montreal,TRUE
+USER_0526,Premium,18-24,London,FALSE
+USER_0527,Premium,45+,Montreal,TRUE
+USER_0554,Free,25-34,Montreal,TRUE
+USER_0555,Premium,18-24,Los Angeles,FALSE
+USER_0562,Premium,25-34,New York City,FALSE
+USER_0567,Premium,35-44,Toronto,FALSE
+USER_0574,Free,18-24,New York City,FALSE
+USER_0592,Free,35-44,Toronto,FALSE
+USER_0603,Free,25-34,Montreal,TRUE
+USER_0624,Free,25-34,Vancouver,FALSE
+USER_0628,Premium,18-24,Montreal,TRUE
+USER_0662,Free,18-24,Toronto,FALSE
+USER_0679,Free,18-24,Toronto,FALSE
+USER_0690,Free,18-24,London,FALSE
+USER_0694,Premium,25-34,London,FALSE
+USER_0707,Free,18-24,Los Angeles,FALSE
+USER_0709,Premium,25-34,Vancouver,FALSE
+USER_0719,Premium,18-24,New York City,FALSE
+USER_0722,Free,18-24,Montreal,TRUE
+USER_0729,Premium,25-34,New York City,FALSE
+USER_0735,Free,45+,Montreal,TRUE
+USER_0744,Free,25-34,Los Angeles,FALSE
+USER_0745,Free,35-44,Montreal,TRUE
+USER_0767,Free,18-24,New York City,FALSE
+USER_0797,Premium,18-24,Toronto,FALSE
+USER_0808,Free,18-24,Montreal,TRUE
+USER_0811,Premium,25-34,Toronto,FALSE
+USER_0849,Free,18-24,Vancouver,FALSE
+USER_0865,Premium,35-44,Montreal,TRUE
+USER_0869,Free,25-34,London,FALSE
+USER_0878,Premium,25-34,London,FALSE
+USER_0882,Premium,25-34,Montreal,TRUE
+USER_0893,Premium,18-24,Vancouver,FALSE
+USER_0908,Free,18-24,Vancouver,FALSE
+USER_0922,Free,18-24,Montreal,TRUE
+USER_0934,Free,35-44,Toronto,FALSE
+USER_0942,Free,45+,London,FALSE
+USER_0970,Premium,45+,Vancouver,FALSE
+USER_0973,Free,35-44,London,FALSE
+USER_0975,Free,25-34,Montreal,TRUE
+USER_0977,Premium,35-44,Vancouver,FALSE
+USER_0986,Free,35-44,London,FALSE
+USER_0993,Free,18-24,Vancouver,FALSE
+USER_0994,Premium,25-34,London,FALSE
+USER_1015,Free,25-34,Los Angeles,FALSE
+USER_1025,Free,25-34,Los Angeles,FALSE
+USER_1053,Premium,35-44,Vancouver,FALSE
+USER_1082,Premium,35-44,Vancouver,FALSE
+USER_1088,Free,35-44,Los Angeles,FALSE
+USER_1092,Premium,35-44,London,FALSE
+USER_1095,Premium,25-34,New York City,FALSE
+USER_1132,Premium,18-24,Montreal,TRUE
+USER_1134,Free,25-34,Toronto,FALSE
+USER_1147,Free,25-34,London,FALSE
+USER_1155,Free,18-24,Toronto,FALSE
+USER_1164,Free,25-34,Vancouver,FALSE
+USER_1170,Premium,25-34,Montreal,TRUE
+USER_1176,Premium,45+,Toronto,FALSE
+USER_1178,Premium,25-34,London,FALSE
+USER_1197,Premium,35-44,New York City,FALSE
+USER_1199,Premium,45+,Los Angeles,FALSE
+USER_1227,Premium,25-34,New York City,FALSE
+USER_1231,Free,25-34,Toronto,FALSE
+USER_1233,Premium,25-34,Los Angeles,FALSE
+USER_1240,Free,18-24,Montreal,TRUE
+USER_1280,Free,18-24,New York City,FALSE
+USER_1297,Free,35-44,Toronto,FALSE
+USER_1336,Free,25-34,Toronto,FALSE
+USER_1369,Premium,35-44,New York City,FALSE
+USER_1381,Free,18-24,London,FALSE
+USER_1398,Free,45+,London,FALSE
+USER_1420,Free,35-44,New York City,FALSE
+USER_1421,Premium,45+,Montreal,TRUE
+USER_1430,Premium,18-24,Toronto,FALSE
+USER_1454,Free,18-24,Montreal,TRUE
+USER_1469,Premium,35-44,Vancouver,FALSE
+USER_1474,Free,25-34,Toronto,FALSE
+USER_1514,Premium,25-34,London,FALSE
+USER_1522,Premium,25-34,Montreal,TRUE
+USER_1531,Premium,25-34,New York City,FALSE
+USER_1551,Free,25-34,Los Angeles,FALSE
+USER_1563,Premium,18-24,Vancouver,FALSE
+USER_1572,Premium,35-44,New York City,FALSE
+USER_1575,Free,35-44,Los Angeles,FALSE
+USER_1576,Premium,35-44,New York City,FALSE
+USER_1599,Free,25-34,Los Angeles,FALSE
+USER_1622,Premium,25-34,Los Angeles,FALSE
+USER_1639,Premium,35-44,Montreal,TRUE
+USER_1658,Premium,18-24,Toronto,FALSE
+USER_1669,Free,18-24,Los Angeles,FALSE
+USER_1689,Premium,25-34,Montreal,TRUE
+USER_1715,Free,25-34,Vancouver,FALSE
+USER_1717,Premium,35-44,Toronto,FALSE
+USER_1727,Premium,35-44,Vancouver,FALSE
+USER_1730,Premium,35-44,Montreal,TRUE
+USER_1773,Free,18-24,Vancouver,FALSE
+USER_1801,Free,25-34,Toronto,FALSE
+USER_1808,Premium,18-24,New York City,FALSE
+USER_1811,Free,45+,Los Angeles,FALSE
+USER_1813,Premium,45+,Montreal,TRUE
+USER_1827,Premium,25-34,Montreal,TRUE
+USER_1839,Premium,25-34,Montreal,TRUE
+USER_1870,Premium,25-34,Toronto,FALSE
+USER_1876,Free,18-24,Vancouver,FALSE
+USER_1899,Free,18-24,London,FALSE
+USER_1937,Premium,45+,Vancouver,FALSE
+USER_1955,Premium,25-34,Toronto,FALSE
+USER_1958,Free,45+,New York City,FALSE
+USER_1988,Premium,18-24,Vancouver,FALSE
+USER_2020,Premium,25-34,Los Angeles,FALSE
+USER_2023,Premium,25-34,Montreal,TRUE
+USER_2030,Free,25-34,Montreal,TRUE
+USER_2033,Free,25-34,London,FALSE
+USER_2057,Premium,18-24,London,FALSE
+USER_2075,Premium,25-34,Montreal,TRUE
+USER_2087,Premium,45+,London,FALSE
+USER_2092,Premium,18-24,Vancouver,FALSE
+USER_2104,Premium,25-34,Montreal,TRUE
+USER_2123,Premium,25-34,Montreal,TRUE
+USER_2128,Premium,25-34,Vancouver,FALSE
+USER_2139,Free,25-34,Toronto,FALSE
+USER_2155,Premium,18-24,London,FALSE
+USER_2187,Free,25-34,Montreal,TRUE
+USER_2196,Premium,25-34,Toronto,FALSE
+USER_2201,Premium,25-34,New York City,FALSE
+USER_2209,Premium,25-34,Toronto,FALSE
+USER_2212,Premium,18-24,London,FALSE
+USER_2213,Free,25-34,Los Angeles,FALSE
+USER_2217,Free,18-24,Montreal,TRUE
+USER_2221,Premium,18-24,New York City,FALSE
+USER_2230,Premium,18-24,New York City,FALSE
+USER_2241,Premium,25-34,Los Angeles,FALSE
+USER_2243,Premium,25-34,Vancouver,FALSE
+USER_2246,Free,35-44,Toronto,FALSE
+USER_2280,Premium,25-34,Toronto,FALSE
+USER_2299,Premium,18-24,Montreal,TRUE
+USER_2308,Premium,25-34,Los Angeles,FALSE
+USER_2314,Free,35-44,Vancouver,FALSE
+USER_2316,Free,25-34,Los Angeles,FALSE
+USER_2319,Premium,25-34,Vancouver,FALSE
+USER_2325,Premium,18-24,Vancouver,FALSE
+USER_2330,Premium,45+,Vancouver,FALSE
+USER_2335,Free,25-34,New York City,FALSE
+USER_2341,Free,18-24,London,FALSE
+USER_2352,Premium,18-24,Montreal,TRUE
+USER_2360,Premium,35-44,New York City,FALSE
+USER_2379,Free,35-44,London,FALSE
+USER_2387,Free,45+,Toronto,FALSE
+USER_2433,Premium,18-24,New York City,FALSE
+USER_2449,Free,25-34,London,FALSE
+USER_2467,Premium,25-34,Toronto,FALSE
+USER_2475,Premium,45+,New York City,FALSE
+USER_2483,Free,18-24,Vancouver,FALSE
+USER_2502,Premium,18-24,New York City,FALSE
+USER_2514,Free,18-24,New York City,FALSE
+USER_2530,Premium,45+,New York City,FALSE
+USER_2542,Free,18-24,Toronto,FALSE
+USER_2551,Premium,35-44,Vancouver,FALSE
+USER_2559,Premium,25-34,Montreal,TRUE
+USER_2565,Premium,25-34,Vancouver,FALSE
+USER_2569,Premium,25-34,Montreal,TRUE
+USER_2585,Premium,18-24,Los Angeles,FALSE
+USER_2610,Premium,25-34,Los Angeles,FALSE
+USER_2613,Free,25-34,Los Angeles,FALSE
+USER_2616,Free,18-24,London,FALSE
+USER_2619,Premium,18-24,New York City,FALSE
+USER_2620,Premium,18-24,Los Angeles,FALSE
+USER_2652,Premium,35-44,London,FALSE
+USER_2657,Free,18-24,Montreal,TRUE
+USER_2683,Premium,18-24,Toronto,FALSE
+USER_2688,Free,25-34,Vancouver,FALSE
+USER_2725,Free,35-44,Montreal,TRUE
+USER_2744,Premium,35-44,Montreal,TRUE
+USER_2768,Free,25-34,Vancouver,FALSE
+USER_2785,Premium,25-34,Toronto,FALSE
+USER_2790,Free,35-44,Toronto,FALSE
+USER_2800,Free,45+,Vancouver,FALSE
+USER_2816,Free,25-34,London,FALSE
+USER_2820,Premium,18-24,Vancouver,FALSE
+USER_2825,Premium,18-24,Montreal,TRUE
+USER_2827,Free,25-34,London,FALSE
+USER_2835,Premium,18-24,London,FALSE
+USER_2851,Premium,25-34,New York City,FALSE
+USER_2855,Free,35-44,London,FALSE
+USER_2857,Free,25-34,London,FALSE
+USER_2860,Free,25-34,Toronto,FALSE
+USER_2914,Free,25-34,Vancouver,FALSE
+USER_2955,Premium,35-44,Los Angeles,FALSE
+USER_2962,Free,18-24,Montreal,TRUE
+USER_2990,Premium,25-34,London,FALSE
+USER_2993,Free,18-24,London,FALSE
+USER_2994,Free,35-44,Los Angeles,FALSE
+USER_2995,Free,18-24,Montreal,TRUE
+USER_3009,Premium,18-24,Vancouver,FALSE
+USER_3011,Free,18-24,Montreal,TRUE
+USER_3016,Free,35-44,Toronto,FALSE
+USER_3029,Free,18-24,Los Angeles,FALSE
+USER_3031,Premium,18-24,Vancouver,FALSE
+USER_3069,Free,25-34,New York City,FALSE
+USER_3073,Premium,18-24,New York City,FALSE
+USER_3080,Premium,18-24,Toronto,FALSE
+USER_3083,Free,18-24,Montreal,TRUE
+USER_3089,Premium,35-44,Toronto,FALSE
+USER_3090,Free,25-34,London,FALSE
+USER_3108,Free,45+,London,FALSE
+USER_3117,Premium,18-24,New York City,FALSE
+USER_3129,Free,18-24,Montreal,TRUE
+USER_3170,Free,18-24,Montreal,TRUE
+USER_3173,Premium,18-24,New York City,FALSE
+USER_3205,Free,25-34,Toronto,FALSE
+USER_3207,Free,35-44,Los Angeles,FALSE
+USER_3215,Free,35-44,New York City,FALSE
+USER_3249,Free,25-34,Montreal,TRUE
+USER_3270,Premium,35-44,Toronto,FALSE
+USER_3272,Premium,18-24,Los Angeles,FALSE
+USER_3279,Free,45+,Toronto,FALSE
+USER_3284,Premium,25-34,New York City,FALSE
+USER_3304,Free,25-34,New York City,FALSE
+USER_3305,Premium,25-34,Toronto,FALSE
+USER_3321,Free,18-24,New York City,FALSE
+USER_3329,Free,18-24,Vancouver,FALSE
+USER_3336,Free,25-34,Los Angeles,FALSE
+USER_3355,Premium,18-24,Montreal,TRUE
+USER_3379,Premium,35-44,New York City,FALSE
+USER_3392,Free,45+,Vancouver,FALSE
+USER_3398,Premium,18-24,New York City,FALSE
+USER_3407,Free,25-34,New York City,FALSE
+USER_3411,Free,25-34,Toronto,FALSE
+USER_3415,Premium,35-44,London,FALSE
+USER_3420,Free,35-44,Montreal,TRUE
+USER_3440,Free,18-24,Los Angeles,FALSE
+USER_3441,Premium,25-34,Toronto,FALSE
+USER_3449,Premium,18-24,Vancouver,FALSE
+USER_3455,Free,18-24,Toronto,FALSE
+USER_3474,Premium,18-24,Los Angeles,FALSE
+USER_3482,Premium,45+,New York City,FALSE
+USER_3491,Free,25-34,Toronto,FALSE
+USER_3495,Free,18-24,Vancouver,FALSE
+USER_3497,Free,25-34,Vancouver,FALSE
+USER_3501,Free,18-24,Vancouver,FALSE
+USER_3531,Free,45+,Montreal,TRUE
+USER_3547,Premium,35-44,Los Angeles,FALSE
+USER_3554,Free,35-44,Montreal,TRUE
+USER_3605,Free,25-34,Toronto,FALSE
+USER_3621,Premium,45+,Montreal,TRUE
+USER_3626,Free,25-34,Los Angeles,FALSE
+USER_3636,Free,35-44,Los Angeles,FALSE
+USER_3654,Free,18-24,Toronto,FALSE
+USER_3655,Premium,25-34,Montreal,TRUE
+USER_3675,Free,35-44,Toronto,FALSE
+USER_3682,Free,25-34,Toronto,FALSE
+USER_3694,Free,25-34,London,FALSE
+USER_3696,Premium,35-44,Montreal,TRUE
+USER_3742,Premium,45+,London,FALSE
+USER_3755,Free,18-24,London,FALSE
+USER_3759,Premium,25-34,Los Angeles,FALSE
+USER_3768,Premium,35-44,London,FALSE
+USER_3773,Premium,35-44,Toronto,FALSE
+USER_3776,Free,35-44,New York City,FALSE
+USER_3790,Premium,35-44,Los Angeles,FALSE
+USER_3800,Premium,18-24,Montreal,TRUE
+USER_3805,Free,18-24,New York City,FALSE
+USER_3812,Free,35-44,Vancouver,FALSE
+USER_3816,Free,35-44,Vancouver,FALSE
+USER_3835,Free,45+,Montreal,TRUE
+USER_3843,Free,18-24,Montreal,TRUE
+USER_3851,Premium,25-34,London,FALSE
+USER_3858,Premium,18-24,New York City,FALSE
+USER_3889,Premium,25-34,Montreal,TRUE
+USER_3891,Free,25-34,New York City,FALSE
+USER_3895,Free,18-24,Montreal,TRUE
+USER_3908,Premium,45+,Los Angeles,FALSE
+USER_3914,Premium,35-44,London,FALSE
+USER_3922,Free,18-24,Vancouver,FALSE
+USER_3923,Premium,35-44,New York City,FALSE
+USER_3941,Free,18-24,Montreal,TRUE
+USER_3948,Free,25-34,London,FALSE
+USER_3955,Free,25-34,New York City,FALSE
+USER_3956,Premium,25-34,London,FALSE
+USER_3972,Premium,35-44,Vancouver,FALSE
+USER_3997,Free,18-24,Montreal,TRUE
+USER_4008,Free,35-44,Montreal,TRUE
+USER_4017,Premium,18-24,Los Angeles,FALSE
+USER_4025,Premium,25-34,London,FALSE
+USER_4056,Free,35-44,Montreal,TRUE
+USER_4065,Free,45+,Montreal,TRUE
+USER_4084,Free,18-24,New York City,FALSE
+USER_4089,Free,18-24,New York City,FALSE
+USER_4124,Free,45+,Toronto,FALSE
+USER_4125,Free,25-34,Vancouver,FALSE
+USER_4127,Premium,25-34,Los Angeles,FALSE
+USER_4129,Premium,18-24,London,FALSE
+USER_4152,Premium,25-34,New York City,FALSE
+USER_4153,Premium,25-34,New York City,FALSE
+USER_4166,Premium,25-34,Montreal,TRUE
+USER_4168,Premium,25-34,London,FALSE
+USER_4179,Premium,35-44,Montreal,TRUE
+USER_4186,Premium,18-24,Montreal,TRUE
+USER_4202,Free,35-44,Vancouver,FALSE
+USER_4209,Premium,25-34,London,FALSE
+USER_4236,Free,18-24,Montreal,TRUE
+USER_4240,Free,35-44,New York City,FALSE
+USER_4246,Free,45+,Vancouver,FALSE
+USER_4248,Free,45+,London,FALSE
+USER_4269,Premium,18-24,Toronto,FALSE
+USER_4270,Free,18-24,New York City,FALSE
+USER_4276,Free,18-24,Montreal,TRUE
+USER_4284,Free,18-24,London,FALSE
+USER_4287,Premium,18-24,Vancouver,FALSE
+USER_4293,Premium,18-24,Vancouver,FALSE
+USER_4298,Premium,25-34,Los Angeles,FALSE
+USER_4308,Premium,18-24,Montreal,TRUE
+USER_4327,Premium,25-34,Montreal,TRUE
+USER_4336,Premium,18-24,London,FALSE
+USER_4346,Premium,25-34,Toronto,FALSE
+USER_4347,Premium,18-24,Vancouver,FALSE
+USER_4378,Premium,18-24,Vancouver,FALSE
+USER_4388,Premium,45+,London,FALSE
+USER_4407,Free,25-34,Vancouver,FALSE
+USER_4419,Free,18-24,London,FALSE
+USER_4420,Premium,25-34,New York City,FALSE
+USER_4423,Free,18-24,London,FALSE
+USER_4443,Free,25-34,London,FALSE
+USER_4473,Premium,25-34,Los Angeles,FALSE
+USER_4480,Premium,25-34,Vancouver,FALSE
+USER_4484,Free,25-34,London,FALSE
+USER_4506,Premium,35-44,Montreal,TRUE
+USER_4508,Free,25-34,Toronto,FALSE
+USER_4513,Free,18-24,London,FALSE
+USER_4521,Free,25-34,London,FALSE
+USER_4523,Premium,25-34,London,FALSE
+USER_4547,Premium,25-34,New York City,FALSE
+USER_4559,Free,35-44,Los Angeles,FALSE
+USER_4572,Free,35-44,Vancouver,FALSE
+USER_4575,Free,18-24,Montreal,TRUE
+USER_4577,Premium,18-24,Los Angeles,FALSE
+USER_4578,Free,18-24,Toronto,FALSE
+USER_4585,Free,25-34,Los Angeles,FALSE
+USER_4588,Premium,18-24,Montreal,TRUE
+USER_4594,Free,18-24,Vancouver,FALSE
+USER_4610,Free,18-24,Vancouver,FALSE
+USER_4632,Premium,18-24,Montreal,TRUE
+USER_4634,Free,25-34,London,FALSE
+USER_4640,Premium,18-24,Montreal,TRUE
+USER_4663,Premium,18-24,Toronto,FALSE
+USER_4676,Free,25-34,Vancouver,FALSE
+USER_4685,Free,18-24,Toronto,FALSE
+USER_4698,Premium,35-44,Montreal,TRUE
+USER_4702,Free,18-24,Montreal,TRUE
+USER_4704,Free,25-34,New York City,FALSE
+USER_4706,Free,18-24,New York City,FALSE
+USER_4707,Premium,25-34,London,FALSE
+USER_4730,Free,35-44,Vancouver,FALSE
+USER_4746,Free,45+,New York City,FALSE
+USER_4750,Premium,18-24,Montreal,TRUE
+USER_4772,Premium,18-24,Toronto,FALSE
+USER_4782,Premium,45+,Montreal,TRUE
+USER_4791,Premium,25-34,Los Angeles,FALSE
+USER_4802,Premium,35-44,Los Angeles,FALSE
+USER_4809,Free,18-24,New York City,FALSE
+USER_4815,Premium,45+,London,FALSE
+USER_4825,Premium,25-34,New York City,FALSE
+USER_4835,Premium,25-34,Toronto,FALSE
+USER_4847,Premium,35-44,New York City,FALSE
+USER_4858,Free,18-24,Vancouver,FALSE
+USER_4870,Premium,35-44,Vancouver,FALSE
+USER_4877,Premium,18-24,Toronto,FALSE
+USER_4879,Free,35-44,Toronto,FALSE
+USER_4891,Premium,25-34,Vancouver,FALSE
+USER_4911,Free,45+,Los Angeles,FALSE
+USER_4924,Premium,35-44,Toronto,FALSE
+USER_4934,Free,18-24,New York City,FALSE
+USER_4935,Free,35-44,Vancouver,FALSE
+USER_4956,Free,45+,Toronto,FALSE
+USER_4971,Free,35-44,New York City,FALSE
+USER_4981,Free,18-24,Toronto,FALSE
+USER_4999,Premium,35-44,Toronto,FALSE
+USER_0005,Premium,25-34,London,FALSE
+USER_0012,Premium,35-44,London,FALSE
+USER_0019,Premium,35-44,Los Angeles,FALSE
+USER_0035,Premium,45+,Vancouver,FALSE
+USER_0086,Free,45+,Vancouver,FALSE
+USER_0132,Free,45+,Los Angeles,FALSE
+USER_0135,Premium,45+,London,FALSE
+USER_0138,Free,25-34,Montreal,TRUE
+USER_0141,Premium,25-34,Vancouver,FALSE
+USER_0143,Free,25-34,Montreal,TRUE
+USER_0162,Premium,25-34,New York City,FALSE
+USER_0174,Premium,25-34,Vancouver,FALSE
+USER_0201,Premium,18-24,Vancouver,FALSE
+USER_0211,Free,45+,London,FALSE
+USER_0244,Free,35-44,Toronto,FALSE
+USER_0253,Free,18-24,London,FALSE
+USER_0280,Premium,35-44,Montreal,TRUE
+USER_0285,Premium,45+,Los Angeles,FALSE
+USER_0302,Premium,45+,Montreal,TRUE
+USER_0307,Free,45+,London,FALSE
+USER_0312,Free,35-44,Montreal,TRUE
+USER_0331,Premium,25-34,London,FALSE
+USER_0340,Free,25-34,Vancouver,FALSE
+USER_0346,Premium,45+,London,FALSE
+USER_0352,Premium,35-44,New York City,FALSE
+USER_0355,Free,35-44,Vancouver,FALSE
+USER_0380,Premium,35-44,Toronto,FALSE
+USER_0413,Free,35-44,Toronto,FALSE
+USER_0428,Premium,45+,Los Angeles,FALSE
+USER_0438,Free,25-34,New York City,FALSE
+USER_0444,Premium,35-44,Los Angeles,FALSE
+USER_0483,Premium,35-44,Vancouver,FALSE
+USER_0505,Premium,45+,Los Angeles,FALSE
+USER_0521,Premium,35-44,Toronto,FALSE
+USER_0522,Free,35-44,Montreal,TRUE
+USER_0580,Premium,45+,New York City,FALSE
+USER_0583,Premium,45+,New York City,FALSE
+USER_0589,Free,35-44,New York City,FALSE
+USER_0595,Free,35-44,London,FALSE
+USER_0599,Premium,45+,Montreal,TRUE
+USER_0642,Premium,45+,Toronto,FALSE
+USER_0652,Premium,45+,London,FALSE
+USER_0661,Premium,25-34,Vancouver,FALSE
+USER_0678,Free,45+,Los Angeles,FALSE
+USER_0697,Premium,25-34,New York City,FALSE
+USER_0698,Free,25-34,Toronto,FALSE
+USER_0710,Free,35-44,New York City,FALSE
+USER_0725,Premium,45+,New York City,FALSE
+USER_0749,Premium,45+,Los Angeles,FALSE
+USER_0758,Premium,25-34,New York City,FALSE
+USER_0769,Free,45+,London,FALSE
+USER_0798,Premium,35-44,London,FALSE
+USER_0801,Free,45+,Toronto,FALSE
+USER_0821,Free,18-24,Montreal,TRUE
+USER_0842,Free,45+,Los Angeles,FALSE
+USER_0845,Premium,45+,Vancouver,FALSE
+USER_0859,Free,35-44,Toronto,FALSE
+USER_0870,Premium,25-34,New York City,FALSE
+USER_0889,Premium,45+,New York City,FALSE
+USER_0906,Premium,35-44,New York City,FALSE
+USER_0918,Free,45+,Los Angeles,FALSE
+USER_0957,Free,35-44,Toronto,FALSE
+USER_0959,Premium,25-34,London,FALSE
+USER_0967,Premium,45+,London,FALSE
+USER_0968,Premium,35-44,Montreal,TRUE
+USER_0987,Premium,45+,Vancouver,FALSE
+USER_1020,Premium,18-24,Los Angeles,FALSE
+USER_1048,Free,45+,Toronto,FALSE
+USER_1057,Free,35-44,London,FALSE
+USER_1080,Premium,35-44,London,FALSE
+USER_1081,Premium,35-44,Los Angeles,FALSE
+USER_1149,Premium,35-44,Vancouver,FALSE
+USER_1151,Premium,45+,New York City,FALSE
+USER_1193,Premium,45+,Toronto,FALSE
+USER_1198,Free,25-34,Vancouver,FALSE
+USER_1213,Free,45+,Los Angeles,FALSE
+USER_1254,Premium,45+,New York City,FALSE
+USER_1256,Free,45+,Toronto,FALSE
+USER_1262,Premium,25-34,Vancouver,FALSE
+USER_1267,Free,35-44,Toronto,FALSE
+USER_1268,Free,25-34,New York City,FALSE
+USER_1293,Premium,35-44,London,FALSE
+USER_1298,Free,45+,London,FALSE
+USER_1337,Premium,45+,London,FALSE
+USER_1365,Free,45+,London,FALSE
+USER_1414,Premium,45+,Montreal,TRUE
+USER_1444,Free,25-34,Los Angeles,FALSE
+USER_1446,Premium,45+,New York City,FALSE
+USER_1472,Free,45+,Toronto,FALSE
+USER_1479,Premium,35-44,Montreal,TRUE
+USER_1497,Premium,45+,Montreal,TRUE
+USER_1499,Premium,45+,Vancouver,FALSE
+USER_1503,Free,18-24,Toronto,FALSE
+USER_1508,Free,35-44,Toronto,FALSE
+USER_1530,Premium,45+,Los Angeles,FALSE
+USER_1560,Free,35-44,Vancouver,FALSE
+USER_1566,Premium,25-34,Toronto,FALSE
+USER_1578,Free,45+,New York City,FALSE
+USER_1579,Free,45+,Los Angeles,FALSE
+USER_1581,Free,35-44,London,FALSE
+USER_1606,Free,45+,New York City,FALSE
+USER_1616,Premium,25-34,Toronto,FALSE
+USER_1624,Premium,45+,New York City,FALSE
+USER_1627,Free,18-24,Vancouver,FALSE
+USER_1641,Free,45+,Vancouver,FALSE
+USER_1646,Free,35-44,New York City,FALSE
+USER_1677,Free,45+,New York City,FALSE
+USER_1696,Free,45+,London,FALSE
+USER_1698,Free,45+,New York City,FALSE
+USER_1716,Premium,45+,Montreal,TRUE
+USER_1738,Free,18-24,Vancouver,FALSE
+USER_1742,Free,45+,Vancouver,FALSE
+USER_1744,Premium,45+,Los Angeles,FALSE
+USER_1751,Premium,18-24,Vancouver,FALSE
+USER_1762,Premium,35-44,London,FALSE
+USER_1812,Free,45+,Montreal,TRUE
+USER_1817,Premium,35-44,London,FALSE
+USER_1836,Premium,35-44,Toronto,FALSE
+USER_1848,Free,45+,Montreal,TRUE
+USER_1854,Free,45+,Vancouver,FALSE
+USER_1855,Premium,45+,Vancouver,FALSE
+USER_1856,Premium,25-34,London,FALSE
+USER_1886,Premium,45+,London,FALSE
+USER_1898,Free,35-44,Vancouver,FALSE
+USER_1901,Free,35-44,London,FALSE
+USER_1912,Premium,35-44,New York City,FALSE
+USER_1918,Free,45+,Vancouver,FALSE
+USER_1952,Premium,35-44,Toronto,FALSE
+USER_1953,Free,18-24,Toronto,FALSE
+USER_1962,Free,35-44,Montreal,TRUE
+USER_1974,Premium,25-34,Vancouver,FALSE
+USER_1975,Premium,45+,London,FALSE
+USER_1976,Premium,45+,London,FALSE
+USER_1985,Premium,35-44,New York City,FALSE
+USER_2012,Premium,45+,London,FALSE
+USER_2025,Premium,18-24,Montreal,TRUE
+USER_2031,Free,45+,Toronto,FALSE
+USER_2064,Premium,25-34,Montreal,TRUE
+USER_2081,Free,25-34,New York City,FALSE
+USER_2083,Free,45+,Los Angeles,FALSE
+USER_2103,Premium,35-44,Vancouver,FALSE
+USER_2107,Free,18-24,Los Angeles,FALSE
+USER_2126,Free,45+,Los Angeles,FALSE
+USER_2134,Free,45+,Vancouver,FALSE
+USER_2136,Premium,35-44,New York City,FALSE
+USER_2151,Free,45+,Los Angeles,FALSE
+USER_2178,Premium,45+,New York City,FALSE
+USER_2182,Free,45+,Toronto,FALSE
+USER_2199,Free,35-44,Vancouver,FALSE
+USER_2216,Free,45+,London,FALSE
+USER_2235,Free,35-44,New York City,FALSE
+USER_2242,Free,45+,Vancouver,FALSE
+USER_2254,Premium,25-34,Los Angeles,FALSE
+USER_2259,Premium,18-24,London,FALSE
+USER_2265,Free,18-24,London,FALSE
+USER_2271,Premium,45+,London,FALSE
+USER_2293,Premium,35-44,London,FALSE
+USER_2311,Premium,18-24,Los Angeles,FALSE
+USER_2317,Premium,45+,London,FALSE
+USER_2322,Premium,45+,New York City,FALSE
+USER_2328,Free,45+,Toronto,FALSE
+USER_2329,Premium,45+,London,FALSE
+USER_2351,Premium,45+,Montreal,TRUE
+USER_2353,Free,45+,New York City,FALSE
+USER_2359,Free,25-34,New York City,FALSE
+USER_2410,Premium,45+,Montreal,TRUE
+USER_2417,Free,35-44,Vancouver,FALSE
+USER_2425,Premium,45+,Montreal,TRUE
+USER_2430,Premium,45+,Toronto,FALSE
+USER_2435,Premium,45+,London,FALSE
+USER_2462,Premium,45+,Los Angeles,FALSE
+USER_2468,Free,45+,Toronto,FALSE
+USER_2485,Premium,45+,Los Angeles,FALSE
+USER_2489,Premium,45+,Toronto,FALSE
+USER_2504,Free,45+,Toronto,FALSE
+USER_2516,Free,25-34,Vancouver,FALSE
+USER_2521,Free,35-44,Toronto,FALSE
+USER_2553,Free,35-44,New York City,FALSE
+USER_2575,Premium,45+,New York City,FALSE
+USER_2577,Free,45+,London,FALSE
+USER_2588,Premium,25-34,Los Angeles,FALSE
+USER_2592,Premium,45+,Los Angeles,FALSE
+USER_2637,Premium,35-44,New York City,FALSE
+USER_2650,Free,45+,Toronto,FALSE
+USER_2672,Premium,25-34,Los Angeles,FALSE
+USER_2674,Free,25-34,London,FALSE
+USER_2689,Free,35-44,Los Angeles,FALSE
+USER_2726,Free,45+,Toronto,FALSE
+USER_2773,Free,35-44,Montreal,TRUE
+USER_2778,Premium,45+,Toronto,FALSE
+USER_2781,Free,45+,New York City,FALSE
+USER_2810,Free,18-24,London,FALSE
+USER_2832,Premium,35-44,Vancouver,FALSE
+USER_2843,Free,35-44,Montreal,TRUE
+USER_2880,Free,45+,New York City,FALSE
+USER_2889,Premium,18-24,Montreal,TRUE
+USER_2897,Free,45+,London,FALSE
+USER_2900,Free,45+,New York City,FALSE
+USER_2906,Premium,25-34,Vancouver,FALSE
+USER_2933,Premium,25-34,New York City,FALSE
+USER_2947,Free,45+,Montreal,TRUE
+USER_2964,Free,45+,New York City,FALSE
+USER_3024,Free,25-34,Los Angeles,FALSE
+USER_3028,Free,45+,New York City,FALSE
+USER_3042,Free,35-44,Toronto,FALSE
+USER_3045,Free,45+,New York City,FALSE
+USER_3084,Premium,35-44,London,FALSE
+USER_3098,Free,25-34,Los Angeles,FALSE
+USER_3105,Premium,35-44,Toronto,FALSE
+USER_3113,Free,35-44,London,FALSE
+USER_3118,Free,45+,Montreal,TRUE
+USER_3128,Premium,35-44,London,FALSE
+USER_3135,Free,45+,Vancouver,FALSE
+USER_3153,Free,45+,Vancouver,FALSE
+USER_3154,Premium,45+,Toronto,FALSE
+USER_3159,Free,45+,Montreal,TRUE
+USER_3180,Free,25-34,Toronto,FALSE
+USER_3181,Free,18-24,Montreal,TRUE
+USER_3193,Premium,25-34,London,FALSE
+USER_3203,Premium,45+,Toronto,FALSE
+USER_3220,Premium,35-44,New York City,FALSE
+USER_3239,Premium,35-44,Toronto,FALSE
+USER_3297,Premium,25-34,Montreal,TRUE
+USER_3298,Free,35-44,Montreal,TRUE
+USER_3311,Free,45+,Los Angeles,FALSE
+USER_3345,Premium,18-24,Vancouver,FALSE
+USER_3348,Free,25-34,Montreal,TRUE
+USER_3356,Premium,45+,Toronto,FALSE
+USER_3376,Premium,18-24,Toronto,FALSE
+USER_3380,Free,45+,London,FALSE
+USER_3393,Free,35-44,Montreal,TRUE
+USER_3397,Free,45+,Vancouver,FALSE
+USER_3426,Free,25-34,Montreal,TRUE
+USER_3430,Premium,45+,Vancouver,FALSE
+USER_3453,Premium,35-44,Toronto,FALSE
+USER_3459,Premium,45+,Montreal,TRUE
+USER_3467,Free,45+,Vancouver,FALSE
+USER_3492,Free,45+,New York City,FALSE
+USER_3507,Premium,25-34,Montreal,TRUE
+USER_3524,Free,35-44,Toronto,FALSE
+USER_3555,Free,25-34,Montreal,TRUE
+USER_3556,Free,45+,Toronto,FALSE
+USER_3559,Premium,35-44,London,FALSE
+USER_3564,Premium,45+,Vancouver,FALSE
+USER_3575,Premium,35-44,Vancouver,FALSE
+USER_3578,Premium,25-34,New York City,FALSE
+USER_3587,Premium,45+,New York City,FALSE
+USER_3622,Free,45+,London,FALSE
+USER_3632,Free,45+,Toronto,FALSE
+USER_3646,Premium,25-34,London,FALSE
+USER_3653,Free,35-44,New York City,FALSE
+USER_3664,Premium,35-44,Los Angeles,FALSE
+USER_3666,Free,45+,New York City,FALSE
+USER_3676,Premium,35-44,London,FALSE
+USER_3689,Premium,45+,Toronto,FALSE
+USER_3708,Premium,25-34,Los Angeles,FALSE
+USER_3711,Free,25-34,London,FALSE
+USER_3716,Free,45+,London,FALSE
+USER_3717,Premium,18-24,Toronto,FALSE
+USER_3728,Premium,45+,Montreal,TRUE
+USER_3732,Free,35-44,Montreal,TRUE
+USER_3763,Free,45+,Vancouver,FALSE
+USER_3806,Premium,18-24,Los Angeles,FALSE
+USER_3815,Premium,45+,Toronto,FALSE
+USER_3871,Free,35-44,London,FALSE
+USER_3876,Free,45+,Vancouver,FALSE
+USER_3882,Premium,45+,Vancouver,FALSE
+USER_3899,Free,35-44,Toronto,FALSE
+USER_3919,Premium,25-34,Montreal,TRUE
+USER_3925,Premium,35-44,Montreal,TRUE
+USER_3935,Premium,25-34,Toronto,FALSE
+USER_3983,Premium,45+,Montreal,TRUE
+USER_3990,Free,45+,Los Angeles,FALSE
+USER_4004,Premium,35-44,Montreal,TRUE
+USER_4006,Premium,45+,London,FALSE
+USER_4014,Premium,25-34,Los Angeles,FALSE
+USER_4018,Premium,45+,Vancouver,FALSE
+USER_4029,Premium,35-44,Toronto,FALSE
+USER_4031,Free,45+,Montreal,TRUE
+USER_4037,Free,35-44,Los Angeles,FALSE
+USER_4064,Free,35-44,London,FALSE
+USER_4092,Premium,45+,Toronto,FALSE
+USER_4093,Free,35-44,New York City,FALSE
+USER_4100,Free,35-44,New York City,FALSE
+USER_4119,Free,18-24,Los Angeles,FALSE
+USER_4141,Premium,35-44,London,FALSE
+USER_4155,Premium,35-44,London,FALSE
+USER_4184,Premium,45+,Los Angeles,FALSE
+USER_4196,Free,35-44,New York City,FALSE
+USER_4205,Premium,45+,New York City,FALSE
+USER_4206,Premium,45+,Los Angeles,FALSE
+USER_4208,Free,25-34,Toronto,FALSE
+USER_4210,Premium,45+,Montreal,TRUE
+USER_4212,Free,45+,Toronto,FALSE
+USER_4220,Free,25-34,London,FALSE
+USER_4221,Free,35-44,Los Angeles,FALSE
+USER_4228,Free,45+,London,FALSE
+USER_4264,Premium,35-44,New York City,FALSE
+USER_4277,Free,35-44,New York City,FALSE
+USER_4286,Free,25-34,London,FALSE
+USER_4304,Free,45+,Vancouver,FALSE
+USER_4311,Premium,35-44,Toronto,FALSE
+USER_4320,Free,45+,New York City,FALSE
+USER_4333,Free,25-34,Los Angeles,FALSE
+USER_4357,Free,35-44,Vancouver,FALSE
+USER_4371,Free,25-34,Vancouver,FALSE
+USER_4375,Free,35-44,London,FALSE
+USER_4377,Free,18-24,Vancouver,FALSE
+USER_4381,Premium,25-34,Montreal,TRUE
+USER_4405,Free,45+,Vancouver,FALSE
+USER_4444,Premium,35-44,Los Angeles,FALSE
+USER_4471,Premium,35-44,Montreal,TRUE
+USER_4472,Premium,45+,Montreal,TRUE
+USER_4487,Premium,45+,Vancouver,FALSE
+USER_4496,Premium,45+,Vancouver,FALSE
+USER_4529,Premium,45+,Toronto,FALSE
+USER_4557,Free,45+,New York City,FALSE
+USER_4570,Free,35-44,Vancouver,FALSE
+USER_4597,Premium,45+,London,FALSE
+USER_4600,Premium,45+,New York City,FALSE
+USER_4601,Free,18-24,New York City,FALSE
+USER_4615,Premium,45+,Los Angeles,FALSE
+USER_4616,Premium,45+,Vancouver,FALSE
+USER_4626,Premium,45+,London,FALSE
+USER_4628,Free,35-44,London,FALSE
+USER_4646,Free,35-44,Vancouver,FALSE
+USER_4679,Free,45+,Vancouver,FALSE
+USER_4680,Premium,45+,Vancouver,FALSE
+USER_4693,Premium,45+,Montreal,TRUE
+USER_4695,Premium,45+,New York City,FALSE
+USER_4699,Premium,35-44,New York City,FALSE
+USER_4711,Premium,35-44,New York City,FALSE
+USER_4712,Premium,45+,Vancouver,FALSE
+USER_4713,Premium,35-44,Los Angeles,FALSE
+USER_4722,Premium,35-44,New York City,FALSE
+USER_4733,Premium,35-44,Los Angeles,FALSE
+USER_4735,Premium,45+,London,FALSE
+USER_4745,Premium,45+,Vancouver,FALSE
+USER_4752,Premium,45+,Toronto,FALSE
+USER_4757,Free,45+,Montreal,TRUE
+USER_4762,Premium,18-24,New York City,FALSE
+USER_4769,Free,45+,Montreal,TRUE
+USER_4773,Free,35-44,Toronto,FALSE
+USER_4777,Free,45+,London,FALSE
+USER_4810,Free,35-44,Los Angeles,FALSE
+USER_4816,Premium,18-24,Montreal,TRUE
+USER_4822,Premium,25-34,Toronto,FALSE
+USER_4827,Free,45+,Toronto,FALSE
+USER_4832,Premium,45+,Montreal,TRUE
+USER_4834,Premium,25-34,New York City,FALSE
+USER_4838,Premium,45+,Montreal,TRUE
+USER_4840,Free,45+,Montreal,TRUE
+USER_4880,Premium,45+,Toronto,FALSE
+USER_4958,Free,45+,Los Angeles,FALSE
+USER_4965,Premium,25-34,New York City,FALSE
+USER_4989,Premium,18-24,London,FALSE
+USER_0006,Premium,45+,Los Angeles,FALSE
+USER_0007,Premium,25-34,New York City,FALSE
+USER_0018,Free,18-24,Montreal,TRUE
+USER_0046,Premium,35-44,Montreal,TRUE
+USER_0049,Free,35-44,New York City,FALSE
+USER_0054,Free,45+,London,FALSE
+USER_0060,Free,18-24,Toronto,FALSE
+USER_0087,Premium,35-44,London,FALSE
+USER_0088,Premium,35-44,New York City,FALSE
+USER_0089,Free,35-44,New York City,FALSE
+USER_0092,Premium,35-44,New York City,FALSE
+USER_0096,Premium,18-24,Los Angeles,FALSE
+USER_0104,Free,18-24,London,FALSE
+USER_0110,Free,25-34,Vancouver,FALSE
+USER_0119,Premium,25-34,New York City,FALSE
+USER_0127,Premium,25-34,Montreal,TRUE
+USER_0129,Premium,25-34,New York City,FALSE
+USER_0157,Free,25-34,London,FALSE
+USER_0175,Free,35-44,New York City,FALSE
+USER_0177,Free,18-24,New York City,FALSE
+USER_0184,Premium,18-24,London,FALSE
+USER_0189,Free,25-34,Los Angeles,FALSE
+USER_0190,Premium,18-24,Los Angeles,FALSE
+USER_0213,Free,25-34,Vancouver,FALSE
+USER_0221,Premium,25-34,Vancouver,FALSE
+USER_0225,Free,35-44,London,FALSE
+USER_0227,Premium,18-24,Vancouver,FALSE
+USER_0228,Premium,25-34,Montreal,TRUE
+USER_0230,Free,45+,New York City,FALSE
+USER_0231,Free,25-34,Toronto,FALSE
+USER_0262,Free,18-24,Vancouver,FALSE
+USER_0291,Premium,18-24,Toronto,FALSE
+USER_0298,Premium,25-34,Montreal,TRUE
+USER_0310,Premium,35-44,Toronto,FALSE
+USER_0324,Free,25-34,Montreal,TRUE
+USER_0328,Free,25-34,Los Angeles,FALSE
+USER_0349,Free,25-34,Toronto,FALSE
+USER_0356,Premium,25-34,Toronto,FALSE
+USER_0364,Premium,18-24,London,FALSE
+USER_0374,Free,25-34,Vancouver,FALSE
+USER_0396,Free,45+,Vancouver,FALSE
+USER_0404,Free,45+,Montreal,TRUE
+USER_0416,Free,18-24,London,FALSE
+USER_0442,Premium,18-24,Montreal,TRUE
+USER_0462,Premium,35-44,Los Angeles,FALSE
+USER_0468,Free,25-34,Vancouver,FALSE
+USER_0485,Free,45+,Vancouver,FALSE
+USER_0488,Free,35-44,New York City,FALSE
+USER_0509,Free,18-24,Toronto,FALSE
+USER_0531,Premium,35-44,Los Angeles,FALSE
+USER_0542,Free,18-24,Montreal,TRUE
+USER_0544,Premium,25-34,New York City,FALSE
+USER_0561,Free,45+,Montreal,TRUE
+USER_0568,Free,35-44,Montreal,TRUE
+USER_0606,Premium,25-34,Los Angeles,FALSE
+USER_0608,Free,18-24,Toronto,FALSE
+USER_0615,Free,25-34,Montreal,TRUE
+USER_0623,Premium,25-34,Montreal,TRUE
+USER_0639,Premium,25-34,Toronto,FALSE
+USER_0644,Premium,35-44,Toronto,FALSE
+USER_0655,Free,25-34,Toronto,FALSE
+USER_0657,Free,25-34,Toronto,FALSE
+USER_0680,Premium,18-24,Vancouver,FALSE
+USER_0700,Free,18-24,New York City,FALSE
+USER_0721,Premium,45+,Vancouver,FALSE
+USER_0727,Premium,25-34,Los Angeles,FALSE
+USER_0731,Premium,35-44,Toronto,FALSE
+USER_0755,Premium,18-24,Vancouver,FALSE
+USER_0756,Premium,25-34,Los Angeles,FALSE
+USER_0757,Premium,18-24,London,FALSE
+USER_0764,Premium,25-34,Toronto,FALSE
+USER_0776,Premium,25-34,New York City,FALSE
+USER_0813,Premium,18-24,Los Angeles,FALSE
+USER_0825,Free,35-44,Los Angeles,FALSE
+USER_0837,Premium,18-24,Montreal,TRUE
+USER_0841,Premium,25-34,Montreal,TRUE
+USER_0860,Premium,18-24,Montreal,TRUE
+USER_0881,Premium,35-44,Los Angeles,FALSE
+USER_0887,Free,35-44,Montreal,TRUE
+USER_0888,Premium,35-44,New York City,FALSE
+USER_0905,Premium,35-44,Toronto,FALSE
+USER_0913,Premium,35-44,Vancouver,FALSE
+USER_0931,Premium,35-44,Toronto,FALSE
+USER_0936,Free,25-34,London,FALSE
+USER_0949,Premium,45+,Montreal,TRUE
+USER_0976,Premium,35-44,Los Angeles,FALSE
+USER_0988,Premium,18-24,New York City,FALSE
+USER_0998,Premium,35-44,Toronto,FALSE
+USER_1005,Free,25-34,Toronto,FALSE
+USER_1017,Premium,18-24,Los Angeles,FALSE
+USER_1024,Premium,25-34,Montreal,TRUE
+USER_1031,Free,25-34,New York City,FALSE
+USER_1035,Free,25-34,Montreal,TRUE
+USER_1038,Premium,18-24,London,FALSE
+USER_1049,Premium,18-24,Toronto,FALSE
+USER_1051,Premium,45+,London,FALSE
+USER_1065,Premium,35-44,Montreal,TRUE
+USER_1070,Premium,45+,Los Angeles,FALSE
+USER_1074,Free,18-24,London,FALSE
+USER_1087,Premium,18-24,Toronto,FALSE
+USER_1091,Free,45+,New York City,FALSE
+USER_1093,Premium,45+,Montreal,TRUE
+USER_1098,Free,25-34,Los Angeles,FALSE
+USER_1110,Premium,25-34,Los Angeles,FALSE
+USER_1128,Premium,35-44,Los Angeles,FALSE
+USER_1131,Premium,18-24,Vancouver,FALSE
+USER_1153,Free,18-24,Montreal,TRUE
+USER_1156,Premium,25-34,Montreal,TRUE
+USER_1157,Premium,45+,New York City,FALSE
+USER_1187,Free,35-44,Toronto,FALSE
+USER_1196,Free,18-24,New York City,FALSE
+USER_1210,Free,25-34,London,FALSE
+USER_1212,Premium,18-24,Vancouver,FALSE
+USER_1218,Free,25-34,London,FALSE
+USER_1220,Premium,18-24,Vancouver,FALSE
+USER_1305,Premium,18-24,Toronto,FALSE
+USER_1311,Free,25-34,Vancouver,FALSE
+USER_1316,Free,35-44,London,FALSE
+USER_1320,Premium,25-34,London,FALSE
+USER_1322,Premium,18-24,Toronto,FALSE
+USER_1325,Premium,35-44,Los Angeles,FALSE
+USER_1341,Free,35-44,Toronto,FALSE
+USER_1344,Premium,25-34,Los Angeles,FALSE
+USER_1377,Premium,35-44,Vancouver,FALSE
+USER_1393,Premium,35-44,Vancouver,FALSE
+USER_1452,Premium,35-44,London,FALSE
+USER_1458,Premium,35-44,Montreal,TRUE
+USER_1476,Premium,35-44,Vancouver,FALSE
+USER_1488,Premium,18-24,Toronto,FALSE
+USER_1493,Free,25-34,Vancouver,FALSE
+USER_1509,Free,35-44,Vancouver,FALSE
+USER_1515,Free,35-44,London,FALSE
+USER_1529,Free,18-24,London,FALSE
+USER_1540,Premium,45+,London,FALSE
+USER_1562,Premium,18-24,Los Angeles,FALSE
+USER_1564,Premium,25-34,New York City,FALSE
+USER_1592,Free,25-34,Los Angeles,FALSE
+USER_1602,Premium,25-34,London,FALSE
+USER_1634,Free,35-44,Vancouver,FALSE
+USER_1649,Premium,25-34,Vancouver,FALSE
+USER_1663,Free,25-34,Los Angeles,FALSE
+USER_1674,Free,35-44,London,FALSE
+USER_1681,Free,35-44,Vancouver,FALSE
+USER_1690,Free,35-44,Montreal,TRUE
+USER_1694,Free,35-44,Vancouver,FALSE
+USER_1699,Premium,18-24,Montreal,TRUE
+USER_1701,Free,18-24,Vancouver,FALSE
+USER_1722,Free,25-34,London,FALSE
+USER_1728,Premium,35-44,Toronto,FALSE
+USER_1736,Premium,18-24,New York City,FALSE
+USER_1748,Premium,18-24,Los Angeles,FALSE
+USER_1749,Free,45+,New York City,FALSE
+USER_1755,Free,25-34,Los Angeles,FALSE
+USER_1756,Free,35-44,Los Angeles,FALSE
+USER_1770,Premium,35-44,Montreal,TRUE
+USER_1778,Premium,35-44,Montreal,TRUE
+USER_1779,Premium,45+,London,FALSE
+USER_1787,Premium,18-24,Vancouver,FALSE
+USER_1790,Free,45+,Los Angeles,FALSE
+USER_1799,Premium,18-24,Montreal,TRUE
+USER_1802,Premium,18-24,Los Angeles,FALSE
+USER_1806,Free,18-24,Los Angeles,FALSE
+USER_1838,Free,45+,London,FALSE
+USER_1863,Premium,25-34,Montreal,TRUE
+USER_1873,Premium,25-34,Vancouver,FALSE
+USER_1879,Free,25-34,Toronto,FALSE
+USER_1884,Free,25-34,New York City,FALSE
+USER_1885,Free,25-34,London,FALSE
+USER_1891,Premium,25-34,Toronto,FALSE
+USER_1936,Free,35-44,London,FALSE
+USER_1979,Free,25-34,London,FALSE
+USER_1980,Free,35-44,London,FALSE
+USER_2002,Premium,35-44,Los Angeles,FALSE
+USER_2005,Free,45+,Toronto,FALSE
+USER_2021,Free,35-44,Montreal,TRUE
+USER_2022,Premium,35-44,Toronto,FALSE
+USER_2048,Premium,18-24,New York City,FALSE
+USER_2060,Premium,18-24,Toronto,FALSE
+USER_2070,Free,25-34,London,FALSE
+USER_2088,Premium,18-24,Los Angeles,FALSE
+USER_2091,Free,18-24,Montreal,TRUE
+USER_2094,Premium,18-24,London,FALSE
+USER_2118,Free,25-34,Los Angeles,FALSE
+USER_2133,Free,18-24,Vancouver,FALSE
+USER_2152,Free,18-24,New York City,FALSE
+USER_2164,Free,25-34,Los Angeles,FALSE
+USER_2165,Free,25-34,London,FALSE
+USER_2168,Premium,35-44,Toronto,FALSE
+USER_2176,Free,18-24,Los Angeles,FALSE
+USER_2189,Premium,18-24,Toronto,FALSE
+USER_2193,Free,18-24,Toronto,FALSE
+USER_2194,Premium,35-44,Montreal,TRUE
+USER_2200,Premium,25-34,London,FALSE
+USER_2208,Free,18-24,London,FALSE
+USER_2224,Premium,25-34,London,FALSE
+USER_2231,Premium,25-34,Toronto,FALSE
+USER_2233,Premium,18-24,Toronto,FALSE
+USER_2245,Free,18-24,London,FALSE
+USER_2247,Free,25-34,Montreal,TRUE
+USER_2256,Free,25-34,Los Angeles,FALSE
+USER_2258,Premium,25-34,Vancouver,FALSE
+USER_2263,Free,25-34,Vancouver,FALSE
+USER_2267,Premium,25-34,Los Angeles,FALSE
+USER_2269,Premium,35-44,New York City,FALSE
+USER_2276,Free,45+,Montreal,TRUE
+USER_2281,Free,18-24,Vancouver,FALSE
+USER_2283,Free,18-24,Los Angeles,FALSE
+USER_2284,Premium,25-34,New York City,FALSE
+USER_2301,Premium,18-24,New York City,FALSE
+USER_2305,Premium,35-44,Montreal,TRUE
+USER_2323,Premium,25-34,Montreal,TRUE
+USER_2337,Premium,18-24,Los Angeles,FALSE
+USER_2358,Premium,25-34,Toronto,FALSE
+USER_2375,Free,35-44,Montreal,TRUE
+USER_2385,Free,45+,Montreal,TRUE
+USER_2396,Premium,35-44,Montreal,TRUE
+USER_2404,Free,35-44,Montreal,TRUE
+USER_2408,Premium,18-24,Vancouver,FALSE
+USER_2418,Free,45+,Vancouver,FALSE
+USER_2422,Premium,18-24,New York City,FALSE
+USER_2426,Free,35-44,London,FALSE
+USER_2437,Premium,25-34,London,FALSE
+USER_2442,Premium,45+,Montreal,TRUE
+USER_2443,Free,25-34,Vancouver,FALSE
+USER_2456,Free,35-44,London,FALSE
+USER_2477,Premium,25-34,New York City,FALSE
+USER_2527,Premium,35-44,Toronto,FALSE
+USER_2531,Premium,35-44,Toronto,FALSE
+USER_2545,Premium,25-34,New York City,FALSE
+USER_2548,Free,25-34,Los Angeles,FALSE
+USER_2555,Premium,18-24,New York City,FALSE
+USER_2573,Premium,18-24,Vancouver,FALSE
+USER_2584,Free,18-24,Los Angeles,FALSE
+USER_2602,Premium,18-24,London,FALSE
+USER_2607,Free,25-34,Vancouver,FALSE
+USER_2622,Free,18-24,Montreal,TRUE
+USER_2646,Free,25-34,Vancouver,FALSE
+USER_2662,Premium,18-24,Los Angeles,FALSE
+USER_2665,Free,25-34,Toronto,FALSE
+USER_2677,Premium,35-44,London,FALSE
+USER_2699,Free,45+,London,FALSE
+USER_2703,Free,35-44,Los Angeles,FALSE
+USER_2728,Free,18-24,Montreal,TRUE
+USER_2731,Premium,35-44,Vancouver,FALSE
+USER_2740,Free,35-44,Los Angeles,FALSE
+USER_2752,Free,18-24,London,FALSE
+USER_2775,Free,18-24,London,FALSE
+USER_2776,Premium,45+,Vancouver,FALSE
+USER_2788,Premium,35-44,Montreal,TRUE
+USER_2797,Premium,25-34,London,FALSE
+USER_2834,Free,35-44,Los Angeles,FALSE
+USER_2844,Premium,18-24,Montreal,TRUE
+USER_2849,Free,35-44,Montreal,TRUE
+USER_2859,Free,25-34,Vancouver,FALSE
+USER_2862,Free,25-34,Montreal,TRUE
+USER_2863,Premium,35-44,Vancouver,FALSE
+USER_2878,Premium,35-44,Los Angeles,FALSE
+USER_2903,Free,25-34,London,FALSE
+USER_2905,Free,35-44,Toronto,FALSE
+USER_2909,Free,45+,London,FALSE
+USER_2913,Free,25-34,Los Angeles,FALSE
+USER_2931,Premium,25-34,Vancouver,FALSE
+USER_2954,Free,35-44,London,FALSE
+USER_2966,Premium,25-34,Toronto,FALSE
+USER_2971,Premium,25-34,Los Angeles,FALSE
+USER_2978,Premium,18-24,New York City,FALSE
+USER_2984,Free,25-34,Montreal,TRUE
+USER_2988,Free,35-44,New York City,FALSE
+USER_2989,Premium,25-34,Montreal,TRUE
+USER_3008,Premium,25-34,Los Angeles,FALSE
+USER_3010,Premium,35-44,Montreal,TRUE
+USER_3012,Free,18-24,Vancouver,FALSE
+USER_3027,Premium,35-44,Toronto,FALSE
+USER_3040,Premium,35-44,London,FALSE
+USER_3051,Free,45+,Vancouver,FALSE
+USER_3059,Premium,25-34,Los Angeles,FALSE
+USER_3064,Premium,35-44,London,FALSE
+USER_3068,Free,25-34,New York City,FALSE
+USER_3074,Free,18-24,Montreal,TRUE
+USER_3103,Free,35-44,Toronto,FALSE
+USER_3119,Free,25-34,Toronto,FALSE
+USER_3122,Free,45+,Toronto,FALSE
+USER_3123,Free,18-24,Montreal,TRUE
+USER_3125,Free,25-34,New York City,FALSE
+USER_3145,Free,35-44,New York City,FALSE
+USER_3146,Free,18-24,New York City,FALSE
+USER_3152,Free,35-44,London,FALSE
+USER_3200,Premium,25-34,New York City,FALSE
+USER_3204,Premium,25-34,Los Angeles,FALSE
+USER_3216,Premium,18-24,Los Angeles,FALSE
+USER_3230,Free,35-44,Vancouver,FALSE
+USER_3242,Premium,25-34,Los Angeles,FALSE
+USER_3254,Premium,25-34,New York City,FALSE
+USER_3271,Premium,35-44,Los Angeles,FALSE
+USER_3283,Free,35-44,Toronto,FALSE
+USER_3286,Free,25-34,Vancouver,FALSE
+USER_3299,Free,35-44,Toronto,FALSE
+USER_3308,Free,25-34,Los Angeles,FALSE
+USER_3314,Premium,18-24,Toronto,FALSE
+USER_3316,Premium,25-34,New York City,FALSE
+USER_3318,Free,18-24,Toronto,FALSE
+USER_3319,Free,25-34,Los Angeles,FALSE
+USER_3324,Premium,25-34,New York City,FALSE
+USER_3343,Free,45+,Los Angeles,FALSE
+USER_3382,Free,35-44,Toronto,FALSE
+USER_3383,Free,35-44,Vancouver,FALSE
+USER_3389,Premium,18-24,Montreal,TRUE
+USER_3391,Premium,18-24,Vancouver,FALSE
+USER_3396,Free,35-44,Montreal,TRUE
+USER_3414,Free,18-24,Los Angeles,FALSE
+USER_3425,Free,35-44,New York City,FALSE
+USER_3454,Free,25-34,Vancouver,FALSE
+USER_3456,Premium,18-24,London,FALSE
+USER_3468,Free,18-24,Los Angeles,FALSE
+USER_3475,Free,18-24,London,FALSE
+USER_3487,Premium,18-24,Vancouver,FALSE
+USER_3504,Premium,35-44,Vancouver,FALSE
+USER_3508,Free,18-24,New York City,FALSE
+USER_3512,Premium,25-34,Los Angeles,FALSE
+USER_3523,Free,45+,New York City,FALSE
+USER_3544,Free,18-24,Los Angeles,FALSE
+USER_3586,Free,35-44,Los Angeles,FALSE
+USER_3610,Free,18-24,London,FALSE
+USER_3623,Premium,35-44,Los Angeles,FALSE
+USER_3624,Premium,25-34,Los Angeles,FALSE
+USER_3678,Free,45+,New York City,FALSE
+USER_3684,Premium,18-24,Los Angeles,FALSE
+USER_3736,Free,25-34,London,FALSE
+USER_3748,Free,18-24,Los Angeles,FALSE
+USER_3766,Free,18-24,Toronto,FALSE
+USER_3782,Free,25-34,Toronto,FALSE
+USER_3794,Premium,35-44,Montreal,TRUE
+USER_3797,Free,45+,New York City,FALSE
+USER_3804,Free,35-44,Vancouver,FALSE
+USER_3813,Free,35-44,Los Angeles,FALSE
+USER_3829,Premium,18-24,Vancouver,FALSE
+USER_3832,Free,18-24,Montreal,TRUE
+USER_3833,Free,25-34,London,FALSE
+USER_3834,Free,35-44,Los Angeles,FALSE
+USER_3839,Free,18-24,Los Angeles,FALSE
+USER_3848,Free,25-34,London,FALSE
+USER_3849,Free,35-44,Toronto,FALSE
+USER_3853,Premium,25-34,New York City,FALSE
+USER_3854,Free,35-44,Los Angeles,FALSE
+USER_3860,Free,25-34,Vancouver,FALSE
+USER_3863,Free,25-34,London,FALSE
+USER_3867,Premium,45+,Vancouver,FALSE
+USER_3874,Premium,18-24,New York City,FALSE
+USER_3894,Premium,25-34,Vancouver,FALSE
+USER_3902,Premium,18-24,Toronto,FALSE
+USER_3909,Premium,25-34,Vancouver,FALSE
+USER_3920,Free,35-44,London,FALSE
+USER_3921,Free,35-44,Vancouver,FALSE
+USER_3936,Premium,25-34,London,FALSE
+USER_3949,Free,25-34,Montreal,TRUE
+USER_3966,Premium,25-34,Toronto,FALSE
+USER_3992,Premium,25-34,Vancouver,FALSE
+USER_4020,Premium,35-44,Toronto,FALSE
+USER_4032,Premium,18-24,Los Angeles,FALSE
+USER_4034,Free,18-24,Los Angeles,FALSE
+USER_4048,Premium,25-34,Los Angeles,FALSE
+USER_4054,Premium,18-24,London,FALSE
+USER_4061,Premium,35-44,Toronto,FALSE
+USER_4087,Free,25-34,Vancouver,FALSE
+USER_4112,Free,45+,Toronto,FALSE
+USER_4118,Free,45+,Los Angeles,FALSE
+USER_4134,Free,35-44,London,FALSE
+USER_4140,Premium,25-34,Vancouver,FALSE
+USER_4162,Premium,35-44,Los Angeles,FALSE
+USER_4182,Free,25-34,London,FALSE
+USER_4183,Free,25-34,Los Angeles,FALSE
+USER_4218,Premium,18-24,Montreal,TRUE
+USER_4226,Premium,25-34,Vancouver,FALSE
+USER_4232,Premium,18-24,Los Angeles,FALSE
+USER_4247,Premium,25-34,Toronto,FALSE
+USER_4266,Free,35-44,Toronto,FALSE
+USER_4306,Free,25-34,Vancouver,FALSE
+USER_4318,Premium,35-44,Toronto,FALSE
+USER_4329,Free,25-34,Montreal,TRUE
+USER_4335,Premium,25-34,Montreal,TRUE
+USER_4340,Premium,25-34,New York City,FALSE
+USER_4343,Free,35-44,Los Angeles,FALSE
+USER_4345,Premium,35-44,New York City,FALSE
+USER_4356,Premium,18-24,New York City,FALSE
+USER_4359,Free,25-34,London,FALSE
+USER_4376,Free,25-34,New York City,FALSE
+USER_4396,Premium,35-44,New York City,FALSE
+USER_4404,Premium,18-24,Montreal,TRUE
+USER_4408,Free,45+,New York City,FALSE
+USER_4418,Premium,18-24,London,FALSE
+USER_4421,Free,25-34,London,FALSE
+USER_4422,Free,25-34,Los Angeles,FALSE
+USER_4436,Premium,18-24,London,FALSE
+USER_4459,Free,18-24,Los Angeles,FALSE
+USER_4543,Premium,25-34,Vancouver,FALSE
+USER_4546,Premium,18-24,Los Angeles,FALSE
+USER_4553,Premium,35-44,Los Angeles,FALSE
+USER_4558,Premium,35-44,Montreal,TRUE
+USER_4581,Premium,18-24,Vancouver,FALSE
+USER_4582,Free,25-34,Vancouver,FALSE
+USER_4607,Free,25-34,Vancouver,FALSE
+USER_4609,Free,45+,New York City,FALSE
+USER_4629,Premium,18-24,Vancouver,FALSE
+USER_4653,Premium,25-34,New York City,FALSE
+USER_4664,Free,25-34,New York City,FALSE
+USER_4687,Premium,25-34,Toronto,FALSE
+USER_4692,Premium,25-34,Vancouver,FALSE
+USER_4696,Free,25-34,Montreal,TRUE
+USER_4710,Free,35-44,Toronto,FALSE
+USER_4753,Free,25-34,London,FALSE
+USER_4765,Free,18-24,Montreal,TRUE
+USER_4780,Premium,35-44,New York City,FALSE
+USER_4789,Free,25-34,New York City,FALSE
+USER_4804,Free,25-34,New York City,FALSE
+USER_4823,Premium,18-24,Toronto,FALSE
+USER_4824,Premium,25-34,Los Angeles,FALSE
+USER_4830,Free,25-34,Toronto,FALSE
+USER_4853,Premium,45+,Los Angeles,FALSE
+USER_4876,Free,25-34,Vancouver,FALSE
+USER_4915,Premium,25-34,Montreal,TRUE
+USER_4931,Free,35-44,Los Angeles,FALSE
+USER_4938,Premium,35-44,New York City,FALSE
+USER_4941,Premium,18-24,New York City,FALSE
+USER_4947,Premium,18-24,Vancouver,FALSE
+USER_4974,Premium,45+,London,FALSE
+USER_4990,Premium,18-24,Los Angeles,FALSE
+USER_0004,Premium,18-24,London,FALSE
+USER_0013,Free,18-24,Montreal,TRUE
+USER_0028,Free,25-34,Montreal,TRUE
+USER_0050,Free,35-44,Vancouver,FALSE
+USER_0051,Free,18-24,London,FALSE
+USER_0106,Free,18-24,Vancouver,FALSE
+USER_0115,Premium,18-24,London,FALSE
+USER_0136,Premium,18-24,Toronto,FALSE
+USER_0144,Free,18-24,Vancouver,FALSE
+USER_0204,Free,18-24,Toronto,FALSE
+USER_0222,Premium,18-24,London,FALSE
+USER_0234,Premium,18-24,London,FALSE
+USER_0246,Premium,45+,Toronto,FALSE
+USER_0259,Free,18-24,Vancouver,FALSE
+USER_0299,Premium,18-24,Los Angeles,FALSE
+USER_0316,Free,18-24,Vancouver,FALSE
+USER_0333,Free,25-34,London,FALSE
+USER_0357,Free,18-24,Los Angeles,FALSE
+USER_0424,Free,25-34,Vancouver,FALSE
+USER_0452,Premium,18-24,Vancouver,FALSE
+USER_0466,Free,35-44,New York City,FALSE
+USER_0504,Free,18-24,London,FALSE
+USER_0511,Premium,25-34,Montreal,TRUE
+USER_0525,Free,45+,Los Angeles,FALSE
+USER_0528,Premium,45+,Los Angeles,FALSE
+USER_0593,Free,18-24,Los Angeles,FALSE
+USER_0609,Premium,35-44,London,FALSE
+USER_0613,Premium,18-24,Toronto,FALSE
+USER_0663,Free,25-34,Montreal,TRUE
+USER_0666,Free,35-44,Montreal,TRUE
+USER_0675,Premium,25-34,Montreal,TRUE
+USER_0686,Free,18-24,Vancouver,FALSE
+USER_0732,Free,45+,Montreal,TRUE
+USER_0743,Premium,18-24,Montreal,TRUE
+USER_0746,Free,18-24,Los Angeles,FALSE
+USER_0752,Free,18-24,Vancouver,FALSE
+USER_0826,Premium,18-24,Vancouver,FALSE
+USER_0852,Premium,18-24,New York City,FALSE
+USER_0877,Premium,25-34,Vancouver,FALSE
+USER_0909,Free,25-34,Toronto,FALSE
+USER_0910,Premium,18-24,London,FALSE
+USER_0916,Free,18-24,New York City,FALSE
+USER_0920,Premium,45+,Montreal,TRUE
+USER_0923,Free,45+,Montreal,TRUE
+USER_0926,Premium,25-34,Toronto,FALSE
+USER_0941,Premium,18-24,Vancouver,FALSE
+USER_0951,Premium,18-24,New York City,FALSE
+USER_0960,Premium,25-34,New York City,FALSE
+USER_1079,Premium,25-34,Toronto,FALSE
+USER_1097,Free,35-44,New York City,FALSE
+USER_1109,Premium,45+,London,FALSE
+USER_1113,Premium,18-24,Vancouver,FALSE
+USER_1121,Premium,18-24,Toronto,FALSE
+USER_1139,Premium,18-24,New York City,FALSE
+USER_1142,Free,18-24,Montreal,TRUE
+USER_1144,Free,18-24,Los Angeles,FALSE
+USER_1169,Free,18-24,Los Angeles,FALSE
+USER_1194,Premium,35-44,New York City,FALSE
+USER_1200,Free,25-34,London,FALSE
+USER_1229,Free,18-24,Vancouver,FALSE
+USER_1251,Free,18-24,Toronto,FALSE
+USER_1257,Premium,18-24,New York City,FALSE
+USER_1277,Premium,25-34,London,FALSE
+USER_1281,Premium,35-44,New York City,FALSE
+USER_1301,Premium,25-34,Toronto,FALSE
+USER_1314,Premium,25-34,Vancouver,FALSE
+USER_1319,Premium,18-24,Toronto,FALSE
+USER_1327,Free,18-24,London,FALSE
+USER_1328,Premium,18-24,Los Angeles,FALSE
+USER_1338,Premium,18-24,Montreal,TRUE
+USER_1348,Free,18-24,London,FALSE
+USER_1360,Free,18-24,Montreal,TRUE
+USER_1368,Premium,25-34,Vancouver,FALSE
+USER_1371,Premium,25-34,Montreal,TRUE
+USER_1375,Premium,18-24,New York City,FALSE
+USER_1382,Premium,35-44,Los Angeles,FALSE
+USER_1397,Free,18-24,New York City,FALSE
+USER_1408,Free,35-44,Vancouver,FALSE
+USER_1434,Premium,18-24,London,FALSE
+USER_1459,Free,18-24,Los Angeles,FALSE
+USER_1539,Premium,35-44,New York City,FALSE
+USER_1582,Premium,25-34,Vancouver,FALSE
+USER_1584,Premium,25-34,Vancouver,FALSE
+USER_1605,Premium,25-34,Los Angeles,FALSE
+USER_1621,Premium,25-34,Toronto,FALSE
+USER_1628,Premium,18-24,New York City,FALSE
+USER_1684,Premium,45+,Los Angeles,FALSE
+USER_1708,Free,18-24,Los Angeles,FALSE
+USER_1733,Free,35-44,Los Angeles,FALSE
+USER_1741,Free,45+,London,FALSE
+USER_1814,Premium,25-34,New York City,FALSE
+USER_1822,Free,18-24,London,FALSE
+USER_1834,Premium,25-34,Toronto,FALSE
+USER_1844,Premium,18-24,Montreal,TRUE
+USER_1865,Premium,25-34,London,FALSE
+USER_1880,Free,25-34,London,FALSE
+USER_1882,Premium,25-34,Montreal,TRUE
+USER_1893,Free,18-24,Montreal,TRUE
+USER_1930,Free,25-34,Toronto,FALSE
+USER_1943,Free,18-24,Montreal,TRUE
+USER_1957,Free,18-24,Los Angeles,FALSE
+USER_1978,Premium,25-34,Montreal,TRUE
+USER_1998,Premium,25-34,Montreal,TRUE
+USER_2001,Premium,25-34,Vancouver,FALSE
+USER_2003,Free,18-24,Toronto,FALSE
+USER_2016,Premium,18-24,Los Angeles,FALSE
+USER_2042,Premium,18-24,Montreal,TRUE
+USER_2056,Free,25-34,Los Angeles,FALSE
+USER_2146,Free,18-24,New York City,FALSE
+USER_2188,Premium,35-44,Toronto,FALSE
+USER_2195,Premium,18-24,Toronto,FALSE
+USER_2214,Free,25-34,London,FALSE
+USER_2250,Premium,45+,Montreal,TRUE
+USER_2286,Premium,25-34,Montreal,TRUE
+USER_2310,Free,45+,Montreal,TRUE
+USER_2333,Free,25-34,London,FALSE
+USER_2343,Premium,25-34,Vancouver,FALSE
+USER_2361,Premium,18-24,Vancouver,FALSE
+USER_2369,Free,18-24,Montreal,TRUE
+USER_2391,Premium,25-34,Los Angeles,FALSE
+USER_2419,Premium,18-24,Los Angeles,FALSE
+USER_2432,Premium,18-24,London,FALSE
+USER_2452,Free,25-34,New York City,FALSE
+USER_2491,Premium,18-24,Montreal,TRUE
+USER_2525,Premium,18-24,New York City,FALSE
+USER_2612,Free,35-44,London,FALSE
+USER_2618,Premium,18-24,Los Angeles,FALSE
+USER_2624,Free,25-34,London,FALSE
+USER_2649,Free,45+,London,FALSE
+USER_2667,Free,18-24,Toronto,FALSE
+USER_2685,Free,25-34,Vancouver,FALSE
+USER_2687,Premium,35-44,Los Angeles,FALSE
+USER_2692,Free,25-34,Montreal,TRUE
+USER_2694,Premium,35-44,Toronto,FALSE
+USER_2696,Premium,35-44,Los Angeles,FALSE
+USER_2701,Free,25-34,Montreal,TRUE
+USER_2719,Free,25-34,Montreal,TRUE
+USER_2727,Premium,35-44,Vancouver,FALSE
+USER_2747,Premium,25-34,Montreal,TRUE
+USER_2748,Premium,18-24,Toronto,FALSE
+USER_2755,Premium,25-34,Toronto,FALSE
+USER_2758,Premium,35-44,London,FALSE
+USER_2771,Free,18-24,Los Angeles,FALSE
+USER_2789,Free,25-34,Los Angeles,FALSE
+USER_2804,Free,18-24,Vancouver,FALSE
+USER_2807,Free,25-34,Montreal,TRUE
+USER_2809,Free,18-24,Toronto,FALSE
+USER_2821,Premium,18-24,London,FALSE
+USER_2842,Free,18-24,London,FALSE
+USER_2879,Premium,25-34,Montreal,TRUE
+USER_2976,Premium,18-24,London,FALSE
+USER_3002,Free,25-34,Los Angeles,FALSE
+USER_3019,Free,18-24,Toronto,FALSE
+USER_3046,Free,25-34,Toronto,FALSE
+USER_3049,Premium,18-24,Vancouver,FALSE
+USER_3055,Premium,18-24,Los Angeles,FALSE
+USER_3058,Premium,25-34,Toronto,FALSE
+USER_3060,Premium,25-34,Montreal,TRUE
+USER_3085,Free,25-34,London,FALSE
+USER_3111,Premium,18-24,London,FALSE
+USER_3134,Free,18-24,Vancouver,FALSE
+USER_3137,Premium,45+,Vancouver,FALSE
+USER_3192,Free,18-24,Los Angeles,FALSE
+USER_3196,Premium,18-24,London,FALSE
+USER_3247,Free,35-44,London,FALSE
+USER_3253,Premium,18-24,Vancouver,FALSE
+USER_3256,Free,25-34,Montreal,TRUE
+USER_3266,Premium,18-24,New York City,FALSE
+USER_3273,Premium,18-24,New York City,FALSE
+USER_3278,Premium,18-24,Montreal,TRUE
+USER_3291,Free,18-24,Toronto,FALSE
+USER_3301,Free,45+,Toronto,FALSE
+USER_3312,Free,25-34,New York City,FALSE
+USER_3313,Free,25-34,London,FALSE
+USER_3317,Premium,18-24,New York City,FALSE
+USER_3320,Premium,25-34,Montreal,TRUE
+USER_3347,Free,18-24,London,FALSE
+USER_3353,Premium,18-24,Vancouver,FALSE
+USER_3385,Free,25-34,Los Angeles,FALSE
+USER_3394,Free,18-24,London,FALSE
+USER_3422,Premium,18-24,Los Angeles,FALSE
+USER_3423,Premium,18-24,London,FALSE
+USER_3442,Free,25-34,London,FALSE
+USER_3446,Premium,18-24,Montreal,TRUE
+USER_3494,Free,18-24,Toronto,FALSE
+USER_3498,Free,25-34,Toronto,FALSE
+USER_3541,Premium,35-44,Montreal,TRUE
+USER_3553,Premium,18-24,Los Angeles,FALSE
+USER_3573,Premium,18-24,Los Angeles,FALSE
+USER_3630,Premium,25-34,Los Angeles,FALSE
+USER_3648,Premium,18-24,Toronto,FALSE
+USER_3690,Free,25-34,Vancouver,FALSE
+USER_3704,Premium,45+,Montreal,TRUE
+USER_3795,Free,18-24,Toronto,FALSE
+USER_3811,Premium,35-44,Toronto,FALSE
+USER_3819,Premium,18-24,Vancouver,FALSE
+USER_3825,Premium,25-34,London,FALSE
+USER_3831,Free,18-24,Toronto,FALSE
+USER_3838,Free,18-24,Montreal,TRUE
+USER_3856,Premium,45+,Los Angeles,FALSE
+USER_3886,Premium,18-24,New York City,FALSE
+USER_3893,Free,18-24,Montreal,TRUE
+USER_3928,Free,18-24,London,FALSE
+USER_3931,Free,18-24,London,FALSE
+USER_3937,Premium,18-24,London,FALSE
+USER_3940,Free,25-34,London,FALSE
+USER_3954,Premium,25-34,New York City,FALSE
+USER_3973,Premium,18-24,New York City,FALSE
+USER_3974,Premium,18-24,Los Angeles,FALSE
+USER_3985,Premium,18-24,Montreal,TRUE
+USER_3998,Premium,25-34,Montreal,TRUE
+USER_4000,Premium,18-24,London,FALSE
+USER_4001,Premium,18-24,London,FALSE
+USER_4023,Premium,18-24,New York City,FALSE
+USER_4039,Premium,18-24,New York City,FALSE
+USER_4076,Free,25-34,London,FALSE
+USER_4106,Free,18-24,Los Angeles,FALSE
+USER_4111,Premium,18-24,Los Angeles,FALSE
+USER_4133,Premium,25-34,Los Angeles,FALSE
+USER_4143,Premium,25-34,Montreal,TRUE
+USER_4235,Premium,25-34,Montreal,TRUE
+USER_4256,Free,18-24,London,FALSE
+USER_4291,Free,18-24,Toronto,FALSE
+USER_4316,Premium,35-44,New York City,FALSE
+USER_4339,Free,18-24,New York City,FALSE
+USER_4382,Premium,25-34,Vancouver,FALSE
+USER_4394,Free,18-24,London,FALSE
+USER_4413,Premium,25-34,Montreal,TRUE
+USER_4414,Free,35-44,Los Angeles,FALSE
+USER_4449,Premium,25-34,New York City,FALSE
+USER_4464,Premium,25-34,Montreal,TRUE
+USER_4486,Premium,25-34,London,FALSE
+USER_4503,Free,25-34,New York City,FALSE
+USER_4505,Premium,18-24,New York City,FALSE
+USER_4528,Premium,35-44,Los Angeles,FALSE
+USER_4535,Premium,35-44,Vancouver,FALSE
+USER_4598,Free,18-24,Los Angeles,FALSE
+USER_4643,Premium,18-24,Montreal,TRUE
+USER_4649,Free,45+,Vancouver,FALSE
+USER_4652,Free,18-24,Vancouver,FALSE
+USER_4675,Premium,25-34,New York City,FALSE
+USER_4718,Premium,18-24,London,FALSE
+USER_4736,Free,35-44,London,FALSE
+USER_4760,Free,18-24,Toronto,FALSE
+USER_4779,Premium,18-24,Vancouver,FALSE
+USER_4787,Free,25-34,Vancouver,FALSE
+USER_4800,Free,18-24,Montreal,TRUE
+USER_4820,Premium,25-34,New York City,FALSE
+USER_4826,Premium,18-24,Toronto,FALSE
+USER_4837,Premium,18-24,London,FALSE
+USER_4841,Premium,18-24,Toronto,FALSE
+USER_4872,Free,18-24,Los Angeles,FALSE
+USER_4874,Premium,25-34,Toronto,FALSE
+USER_4946,Free,18-24,Montreal,TRUE
+USER_4969,Free,18-24,Toronto,FALSE
+USER_0010,Free,35-44,Montreal,TRUE
+USER_0027,Premium,18-24,London,FALSE
+USER_0065,Premium,18-24,New York City,FALSE
+USER_0097,Premium,18-24,Montreal,TRUE
+USER_0155,Premium,25-34,New York City,FALSE
+USER_0158,Free,45+,Toronto,FALSE
+USER_0216,Free,35-44,Montreal,TRUE
+USER_0218,Free,25-34,Los Angeles,FALSE
+USER_0301,Premium,35-44,Toronto,FALSE
+USER_0305,Premium,35-44,Los Angeles,FALSE
+USER_0317,Free,35-44,Vancouver,FALSE
+USER_0318,Premium,25-34,London,FALSE
+USER_0322,Premium,18-24,London,FALSE
+USER_0351,Premium,25-34,New York City,FALSE
+USER_0359,Free,35-44,Montreal,TRUE
+USER_0370,Premium,18-24,Montreal,TRUE
+USER_0401,Premium,25-34,New York City,FALSE
+USER_0411,Premium,35-44,Toronto,FALSE
+USER_0418,Free,18-24,Toronto,FALSE
+USER_0430,Premium,45+,Los Angeles,FALSE
+USER_0459,Premium,25-34,Vancouver,FALSE
+USER_0465,Free,25-34,Montreal,TRUE
+USER_0477,Premium,35-44,London,FALSE
+USER_0494,Premium,45+,Vancouver,FALSE
+USER_0497,Premium,45+,Los Angeles,FALSE
+USER_0516,Free,35-44,Toronto,FALSE
+USER_0518,Free,25-34,New York City,FALSE
+USER_0596,Premium,35-44,New York City,FALSE
+USER_0687,Premium,25-34,London,FALSE
+USER_0702,Premium,18-24,Vancouver,FALSE
+USER_0711,Premium,18-24,Los Angeles,FALSE
+USER_0733,Premium,18-24,New York City,FALSE
+USER_0765,Free,35-44,New York City,FALSE
+USER_0768,Free,18-24,Los Angeles,FALSE
+USER_0778,Free,18-24,London,FALSE
+USER_0788,Free,45+,Montreal,TRUE
+USER_0846,Free,35-44,New York City,FALSE
+USER_0875,Free,18-24,Los Angeles,FALSE
+USER_0890,Free,45+,Vancouver,FALSE
+USER_0929,Premium,35-44,Los Angeles,FALSE
+USER_0930,Premium,25-34,Montreal,TRUE
+USER_0948,Free,35-44,New York City,FALSE
+USER_1008,Premium,25-34,Montreal,TRUE
+USER_1041,Premium,25-34,Toronto,FALSE
+USER_1058,Premium,35-44,Toronto,FALSE
+USER_1060,Premium,18-24,London,FALSE
+USER_1076,Free,25-34,Los Angeles,FALSE
+USER_1083,Free,45+,London,FALSE
+USER_1101,Free,18-24,Los Angeles,FALSE
+USER_1105,Premium,35-44,Toronto,FALSE
+USER_1111,Free,35-44,Vancouver,FALSE
+USER_1114,Premium,18-24,Toronto,FALSE
+USER_1154,Free,18-24,Los Angeles,FALSE
+USER_1222,Free,18-24,Montreal,TRUE
+USER_1239,Free,25-34,Toronto,FALSE
+USER_1264,Premium,35-44,Vancouver,FALSE
+USER_1290,Premium,18-24,Montreal,TRUE
+USER_1308,Premium,25-34,London,FALSE
+USER_1312,Free,25-34,Toronto,FALSE
+USER_1313,Free,35-44,New York City,FALSE
+USER_1324,Premium,18-24,Toronto,FALSE
+USER_1331,Premium,35-44,Los Angeles,FALSE
+USER_1342,Premium,35-44,Toronto,FALSE
+USER_1363,Free,45+,Toronto,FALSE
+USER_1380,Free,35-44,Los Angeles,FALSE
+USER_1409,Premium,25-34,Toronto,FALSE
+USER_1426,Free,25-34,Vancouver,FALSE
+USER_1517,Free,18-24,New York City,FALSE
+USER_1538,Premium,18-24,Toronto,FALSE
+USER_1587,Premium,35-44,Vancouver,FALSE
+USER_1588,Free,18-24,Los Angeles,FALSE
+USER_1615,Free,35-44,Vancouver,FALSE
+USER_1642,Free,18-24,Toronto,FALSE
+USER_1667,Premium,25-34,London,FALSE
+USER_1671,Free,45+,Vancouver,FALSE
+USER_1678,Premium,35-44,Toronto,FALSE
+USER_1691,Premium,45+,Toronto,FALSE
+USER_1702,Free,35-44,Los Angeles,FALSE
+USER_1711,Free,18-24,Vancouver,FALSE
+USER_1713,Free,18-24,New York City,FALSE
+USER_1726,Premium,45+,London,FALSE
+USER_1745,Free,25-34,Vancouver,FALSE
+USER_1782,Premium,18-24,Vancouver,FALSE
+USER_1823,Premium,18-24,London,FALSE
+USER_1833,Free,25-34,Toronto,FALSE
+USER_1867,Premium,25-34,London,FALSE
+USER_1941,Premium,18-24,Vancouver,FALSE
+USER_2046,Premium,18-24,New York City,FALSE
+USER_2089,Premium,45+,London,FALSE
+USER_2093,Free,45+,Toronto,FALSE
+USER_2108,Free,18-24,Montreal,TRUE
+USER_2138,Premium,18-24,Los Angeles,FALSE
+USER_2143,Premium,18-24,Vancouver,FALSE
+USER_2161,Free,25-34,New York City,FALSE
+USER_2170,Free,25-34,Toronto,FALSE
+USER_2205,Premium,18-24,London,FALSE
+USER_2264,Free,35-44,Los Angeles,FALSE
+USER_2285,Free,35-44,New York City,FALSE
+USER_2331,Premium,18-24,London,FALSE
+USER_2334,Free,25-34,New York City,FALSE
+USER_2357,Free,35-44,London,FALSE
+USER_2365,Free,18-24,Montreal,TRUE
+USER_2367,Free,18-24,Los Angeles,FALSE
+USER_2393,Premium,35-44,Los Angeles,FALSE
+USER_2407,Premium,35-44,New York City,FALSE
+USER_2411,Free,25-34,New York City,FALSE
+USER_2439,Free,35-44,London,FALSE
+USER_2457,Premium,18-24,Montreal,TRUE
+USER_2472,Premium,45+,Los Angeles,FALSE
+USER_2486,Premium,25-34,New York City,FALSE
+USER_2487,Free,35-44,Toronto,FALSE
+USER_2538,Free,18-24,Los Angeles,FALSE
+USER_2552,Free,25-34,Montreal,TRUE
+USER_2583,Premium,18-24,Los Angeles,FALSE
+USER_2632,Free,25-34,Montreal,TRUE
+USER_2655,Premium,35-44,Montreal,TRUE
+USER_2660,Premium,18-24,Montreal,TRUE
+USER_2682,Premium,25-34,Los Angeles,FALSE
+USER_2715,Premium,45+,New York City,FALSE
+USER_2722,Free,18-24,London,FALSE
+USER_2739,Premium,45+,Vancouver,FALSE
+USER_2765,Free,25-34,London,FALSE
+USER_2769,Free,45+,Montreal,TRUE
+USER_2772,Premium,25-34,Vancouver,FALSE
+USER_2792,Premium,18-24,New York City,FALSE
+USER_2798,Free,35-44,Toronto,FALSE
+USER_2893,Premium,18-24,London,FALSE
+USER_2902,Premium,25-34,New York City,FALSE
+USER_2907,Premium,35-44,Los Angeles,FALSE
+USER_2908,Premium,18-24,Montreal,TRUE
+USER_2917,Premium,18-24,London,FALSE
+USER_2939,Premium,35-44,Los Angeles,FALSE
+USER_3000,Free,18-24,Vancouver,FALSE
+USER_3063,Premium,45+,Los Angeles,FALSE
+USER_3067,Premium,18-24,Los Angeles,FALSE
+USER_3075,Premium,18-24,Toronto,FALSE
+USER_3078,Premium,18-24,Los Angeles,FALSE
+USER_3092,Premium,18-24,New York City,FALSE
+USER_3096,Premium,25-34,Vancouver,FALSE
+USER_3100,Free,18-24,Montreal,TRUE
+USER_3104,Free,35-44,London,FALSE
+USER_3115,Free,35-44,Toronto,FALSE
+USER_3130,Premium,18-24,New York City,FALSE
+USER_3208,Premium,25-34,Vancouver,FALSE
+USER_3226,Premium,45+,New York City,FALSE
+USER_3276,Premium,35-44,Los Angeles,FALSE
+USER_3296,Free,25-34,Los Angeles,FALSE
+USER_3332,Free,45+,New York City,FALSE
+USER_3349,Free,25-34,London,FALSE
+USER_3361,Premium,45+,London,FALSE
+USER_3369,Premium,18-24,Montreal,TRUE
+USER_3404,Premium,35-44,New York City,FALSE
+USER_3434,Premium,18-24,Montreal,TRUE
+USER_3437,Premium,35-44,Montreal,TRUE
+USER_3505,Free,18-24,Los Angeles,FALSE
+USER_3513,Free,35-44,London,FALSE
+USER_3549,Free,35-44,London,FALSE
+USER_3550,Free,18-24,Vancouver,FALSE
+USER_3568,Premium,45+,New York City,FALSE
+USER_3600,Free,35-44,London,FALSE
+USER_3606,Free,35-44,Vancouver,FALSE
+USER_3638,Premium,25-34,Vancouver,FALSE
+USER_3665,Premium,45+,New York City,FALSE
+USER_3680,Free,18-24,New York City,FALSE
+USER_3681,Free,45+,Toronto,FALSE
+USER_3691,Premium,35-44,Montreal,TRUE
+USER_3693,Premium,25-34,Toronto,FALSE
+USER_3695,Free,35-44,Toronto,FALSE
+USER_3702,Free,18-24,New York City,FALSE
+USER_3713,Premium,25-34,New York City,FALSE
+USER_3745,Premium,18-24,New York City,FALSE
+USER_3784,Premium,25-34,London,FALSE
+USER_3798,Premium,45+,Montreal,TRUE
+USER_3801,Free,18-24,Vancouver,FALSE
+USER_3808,Free,25-34,New York City,FALSE
+USER_3830,Free,25-34,London,FALSE
+USER_3905,Free,18-24,Vancouver,FALSE
+USER_3938,Premium,35-44,Toronto,FALSE
+USER_3950,Free,25-34,Montreal,TRUE
+USER_3959,Free,45+,Vancouver,FALSE
+USER_4009,Free,25-34,Toronto,FALSE
+USER_4011,Premium,25-34,Los Angeles,FALSE
+USER_4013,Free,45+,Montreal,TRUE
+USER_4028,Premium,18-24,Toronto,FALSE
+USER_4066,Premium,25-34,Los Angeles,FALSE
+USER_4091,Premium,25-34,Vancouver,FALSE
+USER_4094,Premium,25-34,Vancouver,FALSE
+USER_4097,Premium,35-44,New York City,FALSE
+USER_4136,Premium,45+,Toronto,FALSE
+USER_4160,Free,25-34,New York City,FALSE
+USER_4169,Free,25-34,Vancouver,FALSE
+USER_4192,Premium,25-34,London,FALSE
+USER_4229,Free,25-34,Los Angeles,FALSE
+USER_4262,Free,45+,Vancouver,FALSE
+USER_4267,Free,45+,New York City,FALSE
+USER_4285,Free,18-24,Vancouver,FALSE
+USER_4288,Premium,45+,London,FALSE
+USER_4305,Premium,18-24,Vancouver,FALSE
+USER_4310,Free,25-34,Toronto,FALSE
+USER_4372,Premium,35-44,Montreal,TRUE
+USER_4374,Premium,18-24,London,FALSE
+USER_4385,Free,35-44,Toronto,FALSE
+USER_4399,Free,25-34,London,FALSE
+USER_4455,Premium,18-24,London,FALSE
+USER_4468,Premium,45+,Vancouver,FALSE
+USER_4470,Free,18-24,London,FALSE
+USER_4474,Premium,25-34,Montreal,TRUE
+USER_4475,Free,25-34,New York City,FALSE
+USER_4483,Free,18-24,Montreal,TRUE
+USER_4544,Premium,25-34,London,FALSE
+USER_4556,Premium,18-24,Los Angeles,FALSE
+USER_4639,Free,18-24,New York City,FALSE
+USER_4651,Free,18-24,Vancouver,FALSE
+USER_4667,Premium,18-24,Los Angeles,FALSE
+USER_4668,Free,18-24,Los Angeles,FALSE
+USER_4684,Free,35-44,Los Angeles,FALSE
+USER_4728,Free,18-24,Montreal,TRUE
+USER_4817,Premium,18-24,Toronto,FALSE
+USER_4848,Premium,45+,New York City,FALSE
+USER_4865,Premium,35-44,New York City,FALSE
+USER_4881,Free,18-24,London,FALSE
+USER_4908,Free,35-44,Montreal,TRUE
+USER_4923,Free,35-44,Montreal,TRUE
+USER_4964,Premium,18-24,Toronto,FALSE
+USER_4993,Free,18-24,Vancouver,FALSE
+USER_4996,Free,18-24,Toronto,FALSE
