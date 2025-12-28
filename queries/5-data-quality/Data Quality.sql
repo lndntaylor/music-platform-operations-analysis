@@ -1,15 +1,15 @@
 WITH quality_checks AS (
-  SELECT 
-    'Orphaned Streams (No User Match)' as check_type,
-    COUNT(*) as issue_count,
-    'Critical' as severity
+SELECT 
+'Orphaned Streams (No User Match)' as check_type,
+ COUNT(*) as issue_count,
+'Critical' as severity
   FROM `operations-portfolio.music_operations.streams` s
   LEFT JOIN `operations-portfolio.music_operations.users` u ON s.user_id = u.user_id
   WHERE u.user_id IS NULL
   
   UNION ALL
   
-  SELECT 
+SELECT 
     'Orphaned Streams (No Track Match)',
     COUNT(*),
     'Critical'
@@ -19,7 +19,7 @@ WITH quality_checks AS (
   
   UNION ALL
   
-  SELECT 
+SELECT 
     'Impossible Stream Duration (> Track Duration)',
     COUNT(*),
     'High'
@@ -29,7 +29,7 @@ WITH quality_checks AS (
   
   UNION ALL
   
-  SELECT 
+SELECT 
     'Logic Error (Completed=TRUE but Skipped=TRUE)',
     COUNT(*),
     'Medium'
@@ -38,7 +38,7 @@ WITH quality_checks AS (
   
   UNION ALL
   
-  SELECT 
+SELECT 
     'Logic Error (Stream Duration = 0)',
     COUNT(*),
     'Medium'
@@ -47,7 +47,7 @@ WITH quality_checks AS (
   
   UNION ALL
   
-  SELECT 
+SELECT 
     'Missing Geographic Region',
     COUNT(*),
     'Low'
@@ -56,9 +56,9 @@ WITH quality_checks AS (
 )
 
 SELECT 
-  check_type,
-  issue_count,
-  severity,
+check_type,
+issue_count,
+severity,
   CASE 
     WHEN issue_count = 0 THEN '✓ PASSED'
     WHEN severity = 'Critical' THEN '✗ IMMEDIATE ACTION REQUIRED'
