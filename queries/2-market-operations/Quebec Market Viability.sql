@@ -1,34 +1,38 @@
-WITH artist_streams AS (
+WITH market_metrics AS (
 SELECT 
-t.artist_name,
-t.genre,
+u.is_quebec_resident,
+ u.geographic_region,
+COUNT(DISTINCT s.user_id) as unique_users,
 COUNT(s.stream_id) as total_streams,
-COUNT(DISTINCT s.user_id) as unique_listeners,
-COUNT(CASE WHEN u.user_type = 'Premium' THEN 1 END) as premium_streams,
-COUNT(CASE WHEN u.user_type = 'Free' THEN 1 END) as free_streams,
-ROUND(COUNT(CASE WHEN s.completed = TRUE THEN 1 END) * 100.0 / COUNT(s.stream_id), 1) as completion_rate
+ROUND(AVG(CAST(s.stream_duration_sec AS FLOAT64)), 0) as avg_stream_duration,
+ROUND(COUNT(CASE WHEN s.completed = TRUE THEN 1 END) * 100.0 / COUNT(s.stream_id), 1) as completion_rate,
+ROUND(COUNT(CASE WHEN s.added_to_playlist = TRUE THEN 1 END) * 100.0 / COUNT(s.stream_id), 1) as playlist_add_rate,
+COUNT(DISTINCT CASE WHEN u.user_type = 'Premium' THEN s.user_id END) as premium_users,
+ROUND(COUNT(DISTINCT CASE WHEN u.user_type = 'Premium' THEN s.user_id END) * 100.0 / 
+COUNT(DISTINCT s.user_id), 1) as premium_penetration
 FROM `operations-portfolio.music_operations.streams` s
-JOIN `operations-portfolio.music_operations.tracks` t ON s.track_id = t.track_id
 JOIN `operations-portfolio.music_operations.users` u ON s.user_id = u.user_id
-GROUP BY t.artist_name, t.genre
+GROUP BY u.is_quebec_resident, u.geographic_region
 )
 
 SELECT 
-artist_name,
-genre,
-total_streams,
-unique_listeners,
-premium_streams,
-free_streams,
-completion_rate,
-ROUND((premium_streams * 0.004) + (free_streams * 0.0025), 2) as estimated_royalty_value,
-ROUND(total_streams * 1.0 / unique_listeners, 1) as streams_per_listener,
 CASE 
-WHEN (premium_streams * 0.004) + (free_streams * 0.0025) >= 10 THEN 'Tier 1 - High Value'
-WHEN (premium_streams * 0.004) + (free_streams * 0.0025) >= 5 THEN 'Tier 2 - Medium Value'
-WHEN (premium_streams * 0.004) + (free_streams * 0.0025) >= 2 THEN 'Tier 3 - Growing'
-ELSE 'Tier 4 - Emerging'
-END as partnership_tier
-FROM artist_streams
-ORDER BY estimated_royalty_value DESC
-LIMIT 50;
+WHEN is_quebec_resident = TRUE THEN 'Quebec (Montreal)'
+  ELSE geographic_region 
+  END as market,
+  unique_users,
+  total_streams,
+  ROUND(total_streams * 1.0 / unique_users, 1) as streams_per_user,
+  avg_stream_duration,
+  completion_rate,
+  playlist_add_rate,
+  premium_users,
+  premium_penetration,
+  ROUND(
+  (completion_rate * 0.4) + 
+  (playlist_add_rate * 0.3) + 
+  (premium_penetration * 0.3), 
+  1
+  ) as market_health_score
+FROM market_metrics
+ORDER BY market_health_score DESC;
