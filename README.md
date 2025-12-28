@@ -456,9 +456,9 @@ README.md
 
 ## Connect With Me
 
-**Portfolio:** https://londontaylor.framer.website/
-**LinkedIn:** https://www.linkedin.com/in/lndntaylor/
-**GitHub:** https://github.com/lndntaylor
+**Portfolio:** https://londontaylor.framer.website/ | 
+**LinkedIn:** https://www.linkedin.com/in/lndntaylor/ | 
+**GitHub:** https://github.com/lndntaylor | 
 **Email:** london.taylor.ops@gmail.com
 
 ---
