@@ -139,7 +139,7 @@ Identifies users with Quebec market affinity based on residence and French conte
 **Query 7: Artist Partnership ROI**  
 Simulates royalty value by artist with completion rate analysis to prioritize partnership renewals and budget allocation.
 
-**Query 8: User Segment Revenue Impact**  
+**Query 8: User Revenue Impact**  
 Revenue contribution analysis by demographics (age, location, subscription type) to focus retention efforts on high-value segments.
 
 **Query 9: Feature Monetization**  
