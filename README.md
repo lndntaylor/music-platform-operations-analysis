@@ -167,10 +167,6 @@ Automated checks for orphaned records, logic errors, and anomalies to ensure dat
 **The Problem:**  
 Artist licensing budget appears allocated based on stream volume, but high-volume artists don't necessarily drive high engagement. This creates a mismatch between spending and user satisfaction.
 
-** Query Results:**
-
-![Artist Partnership ROI Results](images/query results/Artist ROI 1.png)
-
 **What the Data Shows:**
 
 Top 10 revenue-generating artists are dominated by Lo-fi Hip-Hop and Jazz genres:
@@ -217,10 +213,6 @@ Shifting 15% of playlist prominence from mid-engagement Lo-fi artists to high-en
 **The Problem:**  
 Stakeholders need data-backed validation that Quebec market can sustain growth investment before committing resources.
 
-** Query Results:**
-
-![Quebec Market Viability Results](images/query results/Quebec Market Viability.png)
-
 **What the Data Shows:**
 
 Quebec (Montreal) represents 530 users (17.1% of total user base) and generates $2.73 in estimated royalties (17.2% of total platform revenue). Revenue contribution matches user share exactly, indicating Quebec users are neither over-performing nor under-performing relative to other markets.
@@ -266,10 +258,6 @@ Increasing French Jazz and Lo-fi content by 10% (approximately 58 tracks) could 
 **The Problem:**  
 Premium mobile users represent the largest volume segment but suffer the lowest experience quality. This is costing engagement and revenue from the platform's most valuable users.
 
-** Query Results:**
-
-![Device Performance & UX Analysis Results](images/query results/Device Performance & UX Analysis.png)
-
 **What the Data Shows:**
 
 Mobile devices dominate platform traffic across all time periods:
@@ -313,10 +301,6 @@ Improving Premium mobile experience to match Smart Speaker quality benchmarks co
 
 **The Problem:**  
 Infrastructure capacity is likely provisioned based on conventional assumption that evening hours represent peak traffic. The actual usage data contradicts this assumption completely.
-
-** Query Results:**
-
-![Peak Usage Results](images/query results/Peak Usage.png)
 
 **What the Data Shows:**
 
